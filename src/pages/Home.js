@@ -1,3 +1,4 @@
+import ConnectWithUs from "../components/ConnectWithUs";
 function Home() {
   return (
     <>
@@ -129,7 +130,7 @@ function Home() {
           </div>
         </div>
       </section>
-      <section></section>
+      <ConnectWithUs />
     </>
   );
 }
