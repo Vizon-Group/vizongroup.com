@@ -1,13 +1,23 @@
 import { useState } from "react";
+import { saveContactInfo } from "../firebase";
 
 function ConnectWithUs() {
   const handleSubmit = (e) => {
     e.preventDefault();
-    const formData = new FormData(e.target);
-    // retrive name, email, and message from the form as an object
-    const formValues = Object.fromEntries(formData.entries());
-    console.log(formValues);
+    // get email, name, and message from form
+    const email = e.target.email.value;
+    const name = e.target.name.value;
+    const message = e.target.message.value;
+    // log the values
+    console.log({
+      name: name,
+      email: email,
+      message: message,
+    });
+    // save contact info to firebase
+    saveContactInfo(name, email, message);
   };
+
   const [emailValid, setEmailValid] = useState(true);
 
   const handleInputChange = (e) => {
