@@ -1,3 +1,5 @@
+import ConnectWithUs from "../components/ConnectWithUs";
+import Footer from "../components/Footer";
 function Home() {
   return (
     <>
@@ -129,7 +131,8 @@ function Home() {
           </div>
         </div>
       </section>
-      <section></section>
+      <ConnectWithUs />
+      <Footer />
     </>
   );
 }
