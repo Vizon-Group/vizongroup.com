@@ -1,23 +1,6 @@
 import { useState } from "react";
-import { saveContactInfo } from "../firebase";
 
 function ConnectWithUs() {
-  const handleSubmit = (e) => {
-    e.preventDefault();
-    // get email, name, and message from form
-    const email = e.target.email.value;
-    const name = e.target.name.value;
-    const message = e.target.message.value;
-    // log the values
-    console.log({
-      name: name,
-      email: email,
-      message: message,
-    });
-    // save contact info to firebase
-    saveContactInfo(name, email, message);
-  };
-
   const [emailValid, setEmailValid] = useState(true);
 
   const handleInputChange = (e) => {
@@ -30,6 +13,15 @@ function ConnectWithUs() {
       const isValidEmail = emailRegex.test(inputValue);
       setEmailValid(isValidEmail);
     }
+  };
+
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    const name = e.target.name.value;
+    const email = e.target.email.value;
+    const message = e.target.message.value;
+
+    console.log("Name: ", name, "Email: ", email, "Message: ", message);
   };
 
   return (
