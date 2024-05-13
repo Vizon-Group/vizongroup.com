@@ -3,20 +3,20 @@ import Footer from "../components/Footer";
 function Home() {
   return (
     <>
-      <header className="mb-36">
+      <header className="mb-36 w-full">
         <p className="text-3xl font-bold text-black text-center mt-4 mb-4">
           Vizon Group
         </p>
         <div className="bg-[url(https://img1.wsimg.com/isteam/ip/0d16cde5-66fd-4ec5-89b4-1ec5fb002223/Screen%20Shot%202024-03-06%20at%2021.04.36.png/:/rs=w:400,cg:true,m/qt=q:31)] bg-cover bg-center">
           <div className="flex flex-col gap-6 items-left justify-center w-2/5 pt-40 pb-40 pl-36">
             <div>
-              <p className="text-2xl text-white">
+              <p className="text-1xl sm:text-2xl text-white">
                 Revolutionizing the way we do consulting using Artificial
                 Intelligence
               </p>
             </div>
             <div>
-              <p className="font-bold text-white text-7xl">
+              <p className="font-bold text-white text-4xl sm:text-7xl">
                 Innovative Information Technology Consulting
               </p>
             </div>
@@ -28,15 +28,15 @@ function Home() {
           </div>
         </div>
       </header>
-      <section className="mb-72">
+      <section className="mb-36 sm:mb-72 w-full">
         <h2 className="text-center text-4xl font-bold text-[#a68e86] pb-24">
           About Vizon
         </h2>
-        <div className="flex text-center">
-          <div className="pl-24">
+        <div className="mx-auto max-w-5xl w-full grid grid-cols-1 gap-8 sm:grid-cols-2 text-center">
+          <div>
             <div>
               <img
-                src="	https://img1.wsimg.com/isteam/stock/uNpAN1eWxYfkNzJ7r/:/cr=t:12.26%25,l:0%25,w:100%25,h:75.49%25/rs=w:1200,h:570,cg:true"
+                src="https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                 alt="story"
               />
             </div>
@@ -53,10 +53,10 @@ function Home() {
               </p>
             </div>
           </div>
-          <div className="pl-24 pr-24">
+          <div>
             <div>
               <img
-                src="https://img1.wsimg.com/isteam/stock/11253/:/rs=w:1200,h:580,cg:true,m/cr=w:1200,h:570"
+                src="https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                 alt="team"
               />
             </div>
@@ -79,15 +79,15 @@ function Home() {
         <h2 className="text-center text-4xl font-bold text-[#a68e86] pb-24">
           Our Products and Services
         </h2>
-        <div className="flex ml-24 mr-24 gap-12">
-          <div className="w-[32%]">
+        <div className="px-3 grid grid-cols-1 sm:grid-cols-3 gap-7 max-w-6xl mx-auto sm:px-0 ">
+          <div className="col-span-1">
             <img
               src="https://img1.wsimg.com/isteam/ip/0d16cde5-66fd-4ec5-89b4-1ec5fb002223/Screen%20Shot%202024-03-06%20at%2021.04.36.png/:/rs=w:400,cg:true,m/qt=q:31"
               alt="logo"
               className="w-full"
             />
           </div>
-          <div className="w-[62%]">
+          <div className="col-span-2">
             <h4 className="text-2xl  mb-6">Digital Transformation</h4>
             <p className="text-lg leading-loose mb-8">
               We aim to develop an app to automate and scale oversea education

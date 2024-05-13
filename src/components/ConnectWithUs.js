@@ -30,11 +30,11 @@ function ConnectWithUs() {
         <h2 className="text-center text-4xl font-bold text-[#a68e86] pb-24">
           Connect With Us
         </h2>
-        <div className="flex pl-24 pr-24">
-          <div className="w-[50%]">
-            <div className="pl-6 pr-6">
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-7 max-w-5xl mx-auto">
+          <div>
+            <div>
               <form onSubmit={handleSubmit}>
-                <h4 className="text-2xl mt-6 mb-6">General Inquiries</h4>
+                <h4 className="text-2xl">General Inquiries</h4>
                 <div>
                   <input
                     type="text"
@@ -80,7 +80,7 @@ function ConnectWithUs() {
               </form>
             </div>
           </div>
-          <div className="w-[50%]">
+          <div className="">
             <div className="pl-6 pr-6">
               <h4 className="text-2xl mt-6 mb-6">
                 Revolutionizing the way we do consulting using Artificial
