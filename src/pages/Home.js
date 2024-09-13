@@ -44,7 +44,7 @@ function Home() {
               <h4 className="text-2xl mt-6 mb-6">Our Story</h4>
               <p className="text-lg leading-loose">
                 Vizon is a Canadian software consulting firm established in
-                2024. Our founders, Xinyue and Zoe, envisioned a future where
+                2024. Our founders, Rex and Zoe, envisioned a future where
                 various businesses seamlessly integrate artificial intelligence
                 into their business operations. Fueled by a passion for
                 problem-solving and cutting-edge technologies, they determine to
@@ -64,7 +64,7 @@ function Home() {
               <h4 className="text-2xl mt-6 mb-6">Our Team</h4>
               <p className="text-lg leading-loose">
                 Our team comprises seasoned professionals dedicated to
-                excellence, with co-founders Xinyue and Zoe at the helm. Xinyue,
+                excellence, with co-founders Rex and Zoe at the helm. Rex,
                 leveraging years of software development expertise, excels in
                 crafting advanced web and mobile applications, ensuring robust
                 and scalable solutions for our clients. Zoe, a project engineer
