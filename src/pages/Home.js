@@ -7,7 +7,7 @@ function Home() {
         <p className="text-3xl font-bold text-black text-center mt-4 mb-4">
           Vizon Group
         </p>
-        <div className="bg-[url(https://img1.wsimg.com/isteam/ip/0d16cde5-66fd-4ec5-89b4-1ec5fb002223/Screen%20Shot%202024-03-06%20at%2021.04.36.png/:/rs=w:400,cg:true,m/qt=q:31)] bg-cover bg-center">
+        <div className="bg-[url('/Vizonlogo.png')] bg-cover bg-center">
           <div className="flex flex-col gap-6 items-left justify-center w-2/5 pt-40 pb-40 pl-36">
             <div>
               <p className="text-1xl sm:text-2xl text-white">
@@ -82,8 +82,9 @@ function Home() {
         <div className="px-3 grid grid-cols-1 sm:grid-cols-3 gap-7 max-w-6xl mx-auto sm:px-0 ">
           <div className="col-span-1">
             <img
-              src="https://img1.wsimg.com/isteam/ip/0d16cde5-66fd-4ec5-89b4-1ec5fb002223/Screen%20Shot%202024-03-06%20at%2021.04.36.png/:/rs=w:400,cg:true,m/qt=q:31"
+              src="/Vizonlogo.png"
               alt="logo"
+              style={{ maxWidth: '400px' }}
               className="w-full"
             />
           </div>
