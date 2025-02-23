@@ -1,0 +1,1646 @@
+index,项目,结果,学年,学期,学位,国家,分数制,GPA
+0,1-Year MSCS@Yale,Reject,2024,Fall,Master,美国,100,93.5
+1,1-Year MSCS@Yale,Reject,2024,Fall,Master,美国,5.0,4.62
+3,1-Year MSCS@Yale,Reject,2023,Fall,Master,美国,100,89.7
+4,1-Year MSCS@Yale,Admit,2023,Fall,Master,美国,4.0,3.92
+5,1-Year MSCS@Yale,Reject,2023,Fall,Master,美国,4.3,3.94
+6,1-Year MSCS@Yale,Reject,2023,Fall,Master,美国,4.3,4.09
+7,1-Year MSCS@Yale,Admit,2023,Fall,Master,美国,100,90.3
+8,1-Year MSCS@Yale,Reject,2023,Fall,Master,美国,100,89.61
+9,1-Year MSCS@Yale,Admit,2023,Fall,Master,美国,4.0,3.91
+10,1-Year MSCS@Yale,Reject,2023,Fall,Master,美国,100,90.52
+11,1-Year MSCS@Yale,Reject,2023,Fall,Master,美国,4.0,3.86
+12,1-Year MSCS@Yale,Admit,2023,Fall,Master,美国,4.0,3.94
+13,1-Year MSCS@Yale,Reject,2023,Fall,Master,美国,5.0,4.55
+14,1-Year MSCS@Yale,Admit,2023,Fall,Master,美国,4.0,3.97
+15,1-Year MSCS@Yale,Reject,2023,Fall,Master,美国,4.3,4.1
+16,1-Year MSCS@Yale,Reject,2023,Fall,Master,美国,4.0,3.92
+17,1-Year MSCS@Yale,Reject,2022,Fall,Master,美国,100,88.42
+18,2-Year MSCS@Yale,Reject,2024,Fall,Master,美国,100,94.25
+19,2-Year MSCS@Yale,Reject,2024,Fall,Master,美国,4.0,3.93
+20,2-Year MSCS@Yale,Reject,2024,Fall,Master,美国,100,87.0
+21,2-Year MSCS@Yale,Reject,2024,Fall,Master,美国,4.0,3.95
+22,2-Year MSCS@Yale,Reject,2023,Fall,Master,美国,4.0,3.95
+23,2-Year MSCS@Yale,Reject,2023,Fall,Master,美国,4.0,3.96
+24,2-Year MSCS@Yale,Admit,2023,Fall,Master,美国,4.0,4.0
+25,1-Year MSCS@Yale,Reject,2024,Fall,Master,美国,100,93.5
+26,2-Year MSCS@Yale,Reject,2023,Fall,Master,美国,4.0,3.97
+27,9-Course MSCS@Brandeis,Admit,2023,Fall,Master,美国,4.0,3.3
+28,12-Course MSCS@Brandeis,Admit,2023,Fall,Master,美国,4.0,3.92
+29,AC@IC,Reject,2024,Fall,Master,英国,4.0,3.92
+30,AC@IC,Admit,2024,Fall,Master,英国,100,93.5
+31,AC@IC,Admit,2024,Fall,Master,英国,100,90.52
+32,AC@IC,Reject,2023,Fall,Master,英国,4.0,3.8
+33,AC@IC,Reject,2023,Fall,Master,英国,5.0,4.41
+34,Big Data@SFU,Reject,2024,Fall,Master,加拿大,4.0,3.6
+35,Big Data@SFU,Reject,2023,Fall,Master,加拿大,4.0,3.74
+36,Big Data@SFU,Reject,2023,Fall,Master,加拿大,4.0,3.94
+37,Big Data@SFU,Admit,2023,Fall,Master,加拿大,4.0,3.3
+38,Big Data@SFU,Admit,2023,Fall,Master,加拿大,4.0,3.73
+39,Big Data@SFU,Admit,2023,Fall,Master,加拿大,4.0,3.44
+40,Big Data@SFU,Admit,2023,Fall,Master,加拿大,100,90.9
+41,CE PhD@NEU,Admit,2023,Fall,PhD,美国,100,91.63
+42,CE@NWU,Admit,2023,Fall,Master,美国,4.0,3.85
+43,CE@NWU,Admit,2023,Fall,Master,美国,4.3,3.75
+44,CE@USC,Admit,2023,Fall,Master,美国,4.3,3.41
+45,CGGT@UPenn,Admit,2023,Fall,Master,美国,4.0,3.82
+46,CGGT@UPenn,Reject,2022,Fall,Master,美国,100,89.28
+47,CIS PhD@UPenn,Reject,2024,Fall,PhD,美国,100,90.1
+48,CIS PhD@UPenn,Reject,2024,Fall,PhD,美国,4.3,3.69
+49,CM@Cornell Tech,Admit,2024,Fall,Master,美国,100,89.1
+50,CM@Cornell Tech,Admit,2024,Fall,Master,美国,100,91.82
+51,CM@Cornell Tech,Admit,2023,Fall,Master,美国,4.0,3.78
+52,CM@Cornell Tech,Admit,2023,Fall,Master,美国,4.3,3.94
+53,CM@Cornell Tech,Reject,2023,Fall,Master,美国,4.0,3.3
+54,CS General@NEU,Admit,2024,Fall,Master,美国,100,93.5
+55,CS General@NEU,Admit,2024,Fall,Master,美国,100,85.14
+56,CS General@NEU,Admit,2024,Fall,Master,美国,4.0,3.92
+57,CS General@NEU,Admit,2024,Fall,Master,美国,100,89.1
+58,CS General@NEU,Admit,2024,Fall,Master,美国,100,84.96
+59,CS General@NEU,Admit,2024,Fall,Master,美国,4.0,3.81
+60,CS General@NEU,Admit,2024,Fall,Master,美国,100,85.97
+61,CS General@NEU,Admit,2024,Fall,Master,美国,4.0,3.5
+62,CS General@NEU,Admit,2024,Fall,Master,美国,5.0,4.33
+63,CS General@NEU,Admit,2024,Fall,Master,美国,100,90.6
+64,CS General@NEU,Admit,2024,Fall,Master,美国,100,86.3
+65,CS General@NEU,Admit,2024,Fall,Master,美国,4.0,3.5
+66,CS General@NEU,Admit,2024,Fall,Master,美国,4.0,3.6
+67,CS General@NEU,Admit,2024,Fall,Master,美国,4.0,3.89
+68,CS General@NEU,Admit,2024,Fall,Master,美国,4.0,3.97
+69,CS General@NEU,Reject,2024,Fall,Master,美国,4.0,3.29
+70,CS General@NEU,Reject,2024,Fall,Master,美国,5.0,4.7
+71,CS General@NEU,Admit,2023,Fall,Master,美国,4.3,3.55
+72,CS General@NEU,Reject,2023,Fall,Master,美国,4.0,3.37
+73,CS General@NEU,Admit,2023,Fall,Master,美国,4.0,3.8
+74,CS General@NEU,Admit,2023,Fall,Master,美国,4.0,3.69
+75,CS General@NEU,Admit,2023,Fall,Master,美国,100,90.9
+76,CS General@NEU,Admit,2023,Fall,Master,美国,4.0,3.48
+77,CS General@NEU,Admit,2023,Fall,Master,美国,4.3,3.97
+78,CS General@NEU,Admit,2023,Fall,Master,美国,4.0,3.84
+79,CS General@NEU,Admit,2023,Fall,Master,美国,100,88.8
+80,CS General@NEU,Admit,2023,Fall,Master,美国,4.0,3.9
+81,CS General@NEU,Admit,2023,Fall,Master,美国,4.3,3.41
+82,CS General@NEU,Reject,2023,Fall,Master,美国,4.3,3.55
+83,CS General@NEU,Admit,2023,Fall,Master,美国,4.0,3.1
+84,CS General@NEU,Admit,2023,Fall,Master,美国,4.0,3.73
+85,CS General@NEU,Admit,2023,Fall,Master,美国,5.0,4.55
+86,CS General@NEU,Reject,2023,Fall,Master,美国,100,86.99
+87,CS General@NEU,Admit,2023,Fall,Master,美国,4.0,3.95
+88,CS General@NEU,Admit,2023,Fall,Master,美国,100,86.5
+89,CS General@NEU,Reject,2023,Fall,Master,美国,100,88.0
+90,CS General@NEU,Admit,2023,Fall,Master,美国,100,92.91
+91,CS General@NEU,Admit,2023,Fall,Master,美国,100,90.52
+92,CS General@NEU,Withdraw,2023,Fall,Master,美国,100,86.5
+93,CS General@NEU,Admit,2023,Fall,Master,美国,4.0,3.3
+94,CS General@NEU,Admit,2023,Fall,Master,美国,4.0,3.74
+95,CS General@NEU,Admit,2022,Fall,Master,美国,100,90.11
+96,CS General@NEU,Admit,2022,Fall,Master,美国,100,88.42
+97,CS General@NEU,Reject,2022,Fall,Master,美国,100,89.28
+98,CS Meng@Cornell,Reject,2024,Fall,Master,美国,4.3,3.7
+99,CS Meng@Cornell,Admit,2024,Fall,Master,美国,100,91.82
+100,CS Meng@Cornell,Admit,2024,Fall,Master,美国,4.0,3.93
+101,CS Meng@Cornell,Admit,2024,Fall,Master,美国,4.0,3.97
+102,CS Meng@Cornell,Reject,2023,Fall,Master,美国,4.3,4.09
+103,CS Meng@Cornell,Reject,2023,Fall,Master,美国,4.0,3.8
+104,CS Meng@Cornell,Reject,2023,Fall,Master,美国,4.0,3.94
+105,CS Meng@Cornell Tech,Admit,2024,Fall,Master,美国,4.0,3.93
+106,CS Meng@Cornell Tech,Waitlist,2024,Fall,Master,美国,4.0,3.83
+107,CS Meng@Cornell Tech,Admit,2023,Fall,Master,美国,4.0,3.8
+108,CS Meng@Cornell Tech,Admit,2023,Fall,Master,美国,4.0,3.94
+109,CS Meng@Cornell Tech,Waitlist,2023,Fall,Master,美国,4.0,3.97
+110,CS Meng@Cornell Tech,Admit,2023,Fall,Master,美国,100,94.48
+111,CS Meng@Cornell Tech,Reject,2023,Fall,Master,美国,100,91.18
+112,CS Meng@Cornell Tech,Reject,2023,Fall,Master,美国,4.0,3.88
+113,CS Meng@Cornell Tech,Reject,2022,Fall,Master,美国,100,90.11
+114,CS MEng@McMaster,Admit,2024,Fall,Master,加拿大,4.0,3.21
+115,CS MEng@McMaster,Admit,2024,Fall,Master,加拿大,4.0,3.85
+116,CS Meng@VT,Admit,2023,Fall,Master,美国,4.0,3.3
+117,CS Meng@VT,Admit,2023,Fall,Master,美国,4.3,3.41
+118,CS Meng@VT,Admit,2023,Fall,Master,美国,4.0,3.1
+119,CS PhD@Brown,Reject,2024,Fall,PhD,美国,100,90.1
+120,CS PhD@Brown,Admit,2023,Fall,PhD,美国,4.0,3.82
+121,CS PhD@Columbia,Reject,2023,Fall,PhD,美国,4.0,3.86
+122,CS PhD@Cornell,Reject,2024,Fall,PhD,美国,4.3,3.69
+123,CS PhD@Cornell,Reject,2023,Fall,PhD,美国,4.0,3.86
+124,CS PhD@Cornell,Admit,2023,Fall,PhD,美国,4.0,3.88
+125,CS PhD@Dartmouth,Waitlist,2023,Fall,PhD,美国,100,86.3
+126,CS PhD@JHU,Reject,2024,Fall,PhD,美国,100,90.1
+127,CS PhD@NCSU,Admit,2023,Fall,PhD,美国,4.0,3.12
+128,CS PhD@Notre Dame,Admit,2023,Fall,PhD,美国,100,91.63
+129,CS PhD@NWU,Reject,2024,Fall,PhD,美国,100,90.1
+130,CS PhD@NWU,Admit,2023,Fall,PhD,美国,4.0,3.61
+131,CS PhD@NYU Courant,Admit,2023,Fall,PhD,美国,100,88.42
+132,CS PhD@Purdue,Admit,2024,Fall,PhD,美国,4.3,3.69
+133,CS PhD@Rice,Reject,2024,Fall,PhD,美国,100,90.1
+134,CS PhD@Rice,Reject,2023,Fall,PhD,美国,4.0,3.68
+135,CS PhD@Rice,Admit,2023,Fall,PhD,美国,100,91.63
+136,CS PhD@Rochester,Admit,2023,Fall,PhD,美国,100,91.63
+137,CS PhD@Rutgers,Admit,2024,Fall,PhD,美国,100,85.0
+138,CS PhD@Stanford,Reject,2023,Fall,PhD,美国,4.0,3.86
+139,CS PhD@TAMU,Admit,2023,Fall,PhD,美国,100,91.63
+140,CS PhD@UChicago,Reject,2024,Fall,PhD,美国,100,90.1
+141,CS PhD@UCI,Admit,2023,Fall,PhD,美国,4.0,3.86
+142,CS PhD@UCI,Admit,2023,Fall,PhD,美国,4.0,3.68
+143,CS PhD@UCR,默拒,2024,Fall,PhD,美国,4.0,3.82
+144,CS PhD@UCR,Admit,2023,Fall,PhD,美国,4.0,3.66
+145,CS PhD@UCSB,Admit,2024,Fall,PhD,美国,4.3,3.69
+146,CS PhD@UCSB,Withdraw,2023,Fall,PhD,美国,100,88.42
+147,CS PhD@UCSC,Reject,2024,Fall,PhD,美国,100,90.1
+148,CS PhD@UCSD,Admit,2023,Fall,PhD,美国,4.0,4.0
+149,CS PhD@UCSD,Admit,2023,Fall,PhD,美国,4.0,3.88
+150,CS PhD@UIUC,默拒,2024,Fall,PhD,美国,4.3,3.69
+151,CS PhD@UMich,Reject,2024,Fall,PhD,美国,4.3,3.69
+152,CS PhD@UNC,Admit,2023,Fall,PhD,美国,4.0,3.7
+153,CS PhD@UofT,Admit,2024,Fall,PhD,加拿大,4.3,3.69
+154,CS PhD@USC,Reject,2024,Fall,PhD,美国,4.0,3.88
+155,CS PhD@UVA,Admit,2023,Fall,PhD,美国,4.0,3.68
+156,CS PhD@UW,Reject,2023,Fall,PhD,美国,100,88.42
+157,CS PhD@Waterloo,Admit,2023,Fall,PhD,加拿大,4.0,3.68
+158,CS PhD@Waterloo,Reject,2023,Fall,PhD,加拿大,100,91.63
+159,CS PhD@Waterloo,Admit,2023,Fall,PhD,加拿大,100,90.67
+160,CS PhD@Waterloo,Admit,2022,Fall,PhD,加拿大,100,88.42
+161,CS PhD@Wisc,Reject,2023,Fall,PhD,美国,100,91.63
+162,CS PhD@WUSTL,Reject,2023,Fall,PhD,美国,4.0,3.7
+163,CS PhD@Yale,Reject,2023,Fall,PhD,美国,100,91.63
+164,CS-PMP@Wisc,Reject,2024,Fall,Master,美国,100,94.25
+165,CS-PMP@Wisc,Reject,2024,Fall,Master,美国,4.0,3.94
+166,CS-PMP@Wisc,Reject,2023,Fall,Master,美国,100,86.5
+167,CS-PMP@Wisc,Reject,2023,Fall,Master,美国,5.0,4.43
+168,CS-PMP@Wisc,Reject,2023,Fall,Master,美国,100,87.0
+169,CS-PMP@Wisc,Reject,2023,Fall,Master,美国,4.0,3.83
+170,CS-PMP@Wisc,Reject,2023,Fall,Master,美国,100,88.8
+171,CS-PMP@Wisc,Reject,2023,Fall,Master,美国,4.0,3.85
+172,CS-PMP@Wisc,Reject,2023,Fall,Master,美国,4.0,3.85
+173,CS-PMP@Wisc,Reject,2023,Fall,Master,美国,4.0,3.92
+174,CS-PMP@Wisc,Reject,2023,Fall,Master,美国,100,87.5
+175,CS-PMP@Wisc,Reject,2023,Fall,Master,美国,4.0,3.37
+176,CS-PMP@Wisc,Reject,2023,Fall,Master,美国,4.0,3.92
+177,CS-PMP@Wisc,Admit,2023,Fall,Master,美国,4.0,3.73
+178,CS-PMP@Wisc,Admit,2023,Fall,Master,美国,100,91.63
+179,CS-PMP@Wisc,Admit,2023,Fall,Master,美国,4.0,3.95
+180,CS-PMP@Wisc,Reject,2023,Fall,Master,美国,100,88.8
+181,CS28@USC,Admit,2025,Spring,Master,美国,4.0,3.89
+182,CS28@USC,默拒,2024,Fall,Master,美国,4.0,3.75
+183,CS28@USC,Withdraw,2024,Fall,Master,美国,4.0,3.94
+184,CS28@USC,默拒,2024,Fall,Master,美国,4.0,3.7
+185,CS28@USC,Admit,2024,Fall,Master,美国,4.0,3.83
+186,CS28@USC,Admit,2024,Fall,Master,美国,4.0,3.92
+187,CS28@USC,Admit,2024,Fall,Master,美国,100,91.08
+188,CS28@USC,Admit,2024,Fall,Master,美国,4.0,3.82
+189,CS28@USC,Admit,2024,Fall,Master,美国,100,89.1
+190,CS28@USC,Reject,2024,Fall,Master,美国,5.0,4.33
+191,CS28@USC,Reject,2024,Fall,Master,美国,100,90.6
+192,CS28@USC,Reject,2024,Fall,Master,美国,4.0,3.5
+193,CS28@USC,Admit,2024,Fall,Master,美国,100,85.14
+194,CS28@USC,Admit,2024,Fall,Master,美国,4.0,3.69
+195,CS28@USC,Admit,2024,Fall,Master,美国,100,90.5
+196,CS28@USC,Admit,2024,Fall,Master,美国,4.0,3.85
+197,CS28@USC,Admit,2024,Fall,Master,美国,4.0,3.97
+198,CS28@USC,Admit,2024,Fall,Master,美国,100,91.11
+199,CS28@USC,Admit,2024,Spring,Master,美国,4.0,3.69
+200,CS28@USC,Admit,2024,Spring,Master,美国,4.0,3.8
+201,CS28@USC,Admit,2024,Spring,Master,美国,4.0,3.84
+202,CS28@USC,Admit,2024,Spring,Master,美国,100,87.5
+203,CS28@USC,Admit,2024,Spring,Master,美国,4.0,3.74
+204,CS28@USC,Admit,2024,Spring,Master,美国,英制100,74.0
+205,CS28@USC,Reject,2023,Fall,Master,美国,5.0,4.43
+206,CS28@USC,Reject,2023,Fall,Master,美国,4.0,3.95
+207,CS28@USC,Reject,2023,Fall,Master,美国,4.3,3.41
+208,CS28@USC,Admit,2023,Fall,Master,美国,4.0,3.94
+209,CS28@USC,Admit,2023,Fall,Master,美国,4.0,3.92
+210,CS28@USC,Reject,2023,Fall,Master,美国,4.0,3.85
+211,CS28@USC,Admit,2023,Fall,Master,美国,4.0,3.95
+212,CS28@USC,Admit,2023,Fall,Master,美国,4.0,3.92
+213,CS28@USC,Admit,2023,Fall,Master,美国,100,88.0
+214,CS28@USC,Admit,2023,Fall,Master,美国,其他,27.89
+215,CS28@USC,Admit,2023,Fall,Master,美国,100,86.5
+216,CS28@USC,Admit,2023,Fall,Master,美国,4.3,4.1
+217,CS28@USC,Admit,2023,Fall,Master,美国,100,91.63
+218,CS28@USC,Reject,2023,Fall,Master,美国,4.0,3.98
+219,CS28@USC,Admit,2023,Fall,Master,美国,4.3,3.55
+220,CS28@USC,Admit,2023,Fall,Master,美国,100,92.3
+221,CS28@USC,Admit,2023,Fall,Master,美国,100,88.0
+222,CS28@USC,Admit,2023,Fall,Master,美国,100,90.3
+223,CS28@USC,Admit,2023,Fall,Master,美国,100,89.7
+224,CS28@USC,Admit,2023,Fall,Master,美国,100,94.48
+225,CS28@USC,Admit,2023,Fall,Master,美国,100,91.61
+226,CS28@USC,Admit,2023,Fall,Master,美国,100,92.4
+227,CS28@USC,Admit,2023,Fall,Master,美国,4.0,3.9
+228,CS28@USC,Admit,2023,Fall,Master,美国,4.0,3.9
+229,CS28@USC,Admit,2023,Fall,Master,美国,4.0,3.92
+230,CS28@USC,Admit,2023,Fall,Master,美国,4.0,3.96
+231,CS28@USC,Admit,2023,Fall,Master,美国,4.0,3.83
+232,CS28@USC,Admit,2023,Fall,Master,美国,100,90.9
+233,CS28@USC,Reject,2023,Fall,Master,美国,4.0,3.7
+234,CS28@USC,Admit,2023,Fall,Master,美国,4.3,3.75
+235,CS28@USC,Reject,2022,Fall,Master,美国,100,90.11
+236,CS32 (Artificial Intelligence)@USC,Reject,2024,Fall,Master,美国,100,90.1
+237,CS32 (Artificial Intelligence)@USC,Admit,2024,Fall,Master,美国,4.0,3.82
+238,CS32 (Artificial Intelligence)@USC,Admit,2024,Fall,Master,美国,100,89.1
+239,CS32 (Artificial Intelligence)@USC,Admit,2024,Fall,Master,美国,4.0,3.88
+240,CS32 (Networks)@USC,Reject,2024,Fall,Master,美国,100,84.96
+241,CS32 (Networks)@USC,Admit,2024,Spring,Master,美国,100,87.5
+242,CS32 (Networks)@USC,Reject,2023,Fall,Master,美国,4.0,3.85
+243,CS37@USC,Admit,2024,Fall,Master,美国,4.0,3.89
+244,CS37@USC,Admit,2024,Spring,Master,美国,4.0,3.92
+245,CS37@USC,Admit,2024,Spring,Master,美国,100,87.5
+246,CS37@USC,默拒,2023,Fall,Master,美国,4.0,3.87
+247,CS37@USC,Admit,2023,Fall,Master,美国,5.0,4.55
+248,CS37@USC,Admit,2023,Fall,Master,美国,4.0,3.5
+249,CS37@USC,Admit,2023,Fall,Master,美国,4.0,3.98
+250,CS37@USC,Admit,2023,Fall,Master,美国,4.3,3.96
+251,CS37@USC,Admit,2023,Fall,Master,美国,100,88.0
+252,CS37@USC,Admit,2023,Fall,Master,美国,4.0,3.83
+253,CS37@USC,Admit,2023,Fall,Master,美国,4.0,3.7
+254,CS37@USC,Admit,2023,Fall,Master,美国,100,87.0
+255,CS75@UCSD,Admit,2024,Fall,Master,美国,4.0,3.75
+256,CS75@UCSD,Reject,2024,Fall,Master,美国,4.3,3.7
+257,CS75@UCSD,Reject,2024,Fall,Master,美国,100,90.5
+258,CS75@UCSD,Admit,2024,Fall,Master,美国,100,91.7
+259,CS75@UCSD,Reject,2024,Fall,Master,美国,100,94.25
+260,CS75@UCSD,Reject,2024,Fall,Master,美国,100,85.14
+261,CS75@UCSD,Reject,2024,Fall,Master,美国,4.3,3.7
+262,CS75@UCSD,Reject,2024,Fall,Master,美国,100,89.1
+263,CS75@UCSD,Reject,2024,Fall,Master,美国,100,90.1
+264,CS75@UCSD,Reject,2024,Fall,Master,美国,4.0,3.81
+265,CS75@UCSD,Reject,2024,Fall,Master,美国,4.0,3.94
+266,CS75@UCSD,Reject,2024,Fall,Master,美国,100,91.11
+267,CS75@UCSD,默拒,2024,Fall,Master,美国,100,90.28
+268,CS75@UCSD,Admit,2024,Fall,Master,美国,4.0,3.7
+269,CS75@UCSD,Admit,2024,Fall,Master,美国,4.0,3.87
+270,CS75@UCSD,Admit,2024,Fall,Master,美国,4.0,3.83
+271,CS75@UCSD,Admit,2024,Fall,Master,美国,100,92.0
+272,CS75@UCSD,Admit,2024,Fall,Master,美国,4.0,3.97
+273,CS75@UCSD,Admit,2024,Fall,Master,美国,4.0,3.97
+274,CS75@UCSD,Admit,2024,Fall,Master,美国,4.3,4.05
+275,CS75@UCSD,Admit,2024,Fall,Master,美国,100,91.82
+276,CS75@UCSD,Admit,2024,Fall,Master,美国,4.0,3.92
+277,CS75@UCSD,Admit,2024,Fall,Master,美国,4.0,3.88
+278,CS75@UCSD,Admit,2024,Fall,Master,美国,100,90.7
+279,CS75@UCSD,Admit,2024,Fall,Master,美国,4.0,3.93
+280,CS75@UCSD,Admit,2024,Fall,Master,美国,4.0,3.77
+281,CS75@UCSD,Admit,2024,Fall,Master,美国,100,91.0
+282,CS75@UCSD,Admit,2024,Fall,Master,美国,100,90.5
+283,CS75@UCSD,Admit,2024,Fall,Master,美国,4.0,3.98
+284,CS75@UCSD,Admit,2024,Fall,Master,美国,4.0,3.92
+285,CS75@UCSD,Admit,2024,Fall,Master,美国,4.0,3.89
+286,CS75@UCSD,默拒,2024,Fall,Master,美国,100,91.08
+287,CS75@UCSD,Reject,2023,Fall,Master,美国,5.0,4.43
+288,CS75@UCSD,Reject,2023,Fall,Master,美国,4.3,4.1
+289,CS75@UCSD,Reject,2023,Fall,Master,美国,100,90.9
+290,CS75@UCSD,Reject,2023,Fall,Master,美国,4.0,3.48
+291,CS75@UCSD,Reject,2023,Fall,Master,美国,4.0,3.92
+292,CS75@UCSD,Reject,2023,Fall,Master,美国,100,86.74
+293,CS75@UCSD,Reject,2023,Fall,Master,美国,100,92.3
+294,CS75@UCSD,Reject,2023,Fall,Master,美国,5.0,4.55
+295,CS75@UCSD,Reject,2023,Fall,Master,美国,4.3,3.94
+296,CS75@UCSD,Reject,2023,Fall,Master,美国,4.0,3.95
+297,CS75@UCSD,Reject,2023,Fall,Master,美国,4.0,3.5
+298,CS75@UCSD,Reject,2023,Fall,Master,美国,4.0,3.86
+299,CS75@UCSD,Reject,2023,Fall,Master,美国,100,90.52
+300,CS75@UCSD,Reject,2023,Fall,Master,美国,4.0,3.8
+301,CS75@UCSD,Reject,2023,Fall,Master,美国,4.3,3.55
+302,CS75@UCSD,Reject,2023,Fall,Master,美国,4.0,3.85
+303,CS75@UCSD,Reject,2023,Fall,Master,美国,4.0,3.74
+304,CS75@UCSD,Reject,2023,Fall,Master,美国,100,91.61
+305,CS75@UCSD,Reject,2023,Fall,Master,美国,4.0,3.9
+306,CS75@UCSD,Reject,2023,Fall,Master,美国,4.0,3.69
+307,CS75@UCSD,Admit,2023,Fall,Master,美国,100,90.3
+308,CS75@UCSD,Admit,2023,Fall,Master,美国,4.0,3.8
+309,CS75@UCSD,Admit,2023,Fall,Master,美国,4.0,3.84
+310,CS75@UCSD,Admit,2023,Fall,Master,美国,100,89.61
+311,CS75@UCSD,Admit,2023,Fall,Master,美国,100,94.48
+312,CS75@UCSD,Admit,2023,Fall,Master,美国,4.0,3.96
+313,CS75@UCSD,Admit,2023,Fall,Master,美国,4.0,3.95
+314,CS75@UCSD,Admit,2023,Fall,Master,美国,100,84.0
+315,CS75@UCSD,Admit,2023,Fall,Master,美国,4.3,4.09
+316,CS75@UCSD,Admit,2023,Fall,Master,美国,4.0,4.0
+317,CS75@UCSD,Admit,2023,Fall,Master,美国,4.0,3.9
+318,CS75@UCSD,Admit,2023,Fall,Master,美国,100,88.0
+319,CS75@UCSD,Admit,2023,Fall,Master,美国,5.0,4.57
+320,CS75@UCSD,Admit,2023,Fall,Master,美国,100,86.5
+321,CS75@UCSD,Admit,2023,Fall,Master,美国,5.0,4.41
+322,CS75@UCSD,Admit,2023,Fall,Master,美国,4.0,3.91
+323,CS75@UCSD,Admit,2023,Fall,Master,美国,4.0,3.92
+324,CS75@UCSD,Admit,2023,Fall,Master,美国,4.0,3.97
+325,CS75@UCSD,Reject,2023,Fall,Master,美国,100,87.0
+326,CS75@UCSD,Reject,2022,Fall,Master,美国,100,90.11
+327,CS75@UCSD,Reject,2022,Fall,Master,美国,100,88.42
+328,CS75@UCSD,Reject,2022,Fall,Master,美国,100,89.28
+330,CS76@UCSD,Reject,2023,Fall,Master,美国,4.0,3.83
+331,CS76@UCSD,Reject,2023,Fall,Master,美国,4.0,3.92
+332,CS76@UCSD,Reject,2023,Fall,Master,美国,4.0,3.33
+333,CS76@UCSD,Reject,2023,Fall,Master,美国,4.0,3.75
+334,CSE@GaTech,Reject,2024,Fall,Master,美国,5.0,4.33
+335,CSE@GaTech,Reject,2024,Fall,Master,美国,4.0,3.96
+336,CSE@GaTech,Reject,2024,Fall,Master,美国,4.0,3.94
+337,CSE@GaTech,Admit,2024,Fall,Master,美国,100,94.25
+338,CSE@GaTech,Reject,2024,Fall,Master,美国,100,85.14
+339,CSE@GaTech,Reject,2024,Fall,Master,美国,100,90.6
+340,CSE@GaTech,Reject,2024,Fall,Master,美国,4.0,3.82
+341,CSE@GaTech,Reject,2024,Fall,Master,美国,4.0,3.92
+342,CSE@GaTech,Admit,2024,Fall,Master,美国,100,87.0
+343,CSE@GaTech,Admit,2024,Fall,Master,美国,4.0,3.81
+344,CSE@GaTech,Admit,2023,Fall,Master,美国,100,86.74
+345,CSE@GaTech,Reject,2023,Fall,Master,美国,4.0,3.85
+346,CSE@GaTech,Reject,2023,Fall,Master,美国,4.0,3.83
+347,CSE@GaTech,Admit,2023,Fall,Master,美国,100,86.5
+348,CSE@GaTech,Reject,2023,Fall,Master,美国,4.3,3.55
+349,CSE@GaTech,Reject,2023,Fall,Master,美国,100,88.0
+350,CSE@GaTech,Reject,2023,Fall,Master,美国,4.0,3.5
+351,CSE@GaTech,Reject,2023,Fall,Master,美国,4.0,3.92
+352,CSE@GaTech,Reject,2023,Fall,Master,美国,5.0,4.55
+353,CSE@GaTech,Admit,2023,Fall,Master,美国,4.0,3.3
+354,CSE@GaTech,Admit,2023,Fall,Master,美国,4.3,3.75
+355,CSE@GaTech,Admit,2023,Fall,Master,美国,4.3,3.83
+356,CSE@GaTech,Admit,2023,Fall,Master,美国,4.0,3.8
+357,CSE@GaTech,Admit,2023,Fall,Master,美国,4.3,3.75
+358,CSE@GaTech,Reject,2023,Fall,Master,美国,100,87.0
+359,CSE@GaTech,Reject,2022,Fall,Master,美国,100,90.11
+360,CSE@GaTech,Reject,2022,Fall,Master,美国,100,88.42
+361,CSE@Harvard,Reject,2024,Fall,Master,美国,4.0,3.75
+362,CSE@Harvard,Reject,2024,Fall,Master,美国,4.0,3.98
+363,CSE@Harvard,Reject,2024,Fall,Master,美国,100,93.5
+364,CSE@Harvard,Reject,2024,Fall,Master,美国,100,92.0
+365,CSE@Harvard,Reject,2024,Fall,Master,美国,100,91.82
+366,CSE@Harvard,Reject,2024,Fall,Master,美国,100,91.11
+367,CSE@Harvard,Admit,2024,Fall,Master,美国,4.0,3.95
+368,CSE@Harvard,Reject,2023,Fall,Master,美国,4.0,3.96
+369,CSE@Harvard,Reject,2023,Fall,Master,美国,4.0,3.94
+370,CSE@Harvard,Reject,2023,Fall,Master,美国,4.0,3.88
+371,CSE@Harvard,Reject,2023,Fall,Master,美国,4.3,3.96
+372,CSE@Harvard,Reject,2023,Fall,Master,美国,4.3,4.1
+373,CSE@Harvard,Reject,2023,Fall,Master,美国,4.0,3.8
+374,CSE@Harvard,Reject,2023,Fall,Master,美国,4.0,3.8
+375,CSE@Harvard,Admit,2023,Fall,Master,美国,100,94.48
+376,CSE@Harvard,Admit,2023,Fall,Master,美国,4.0,4.0
+377,CSE@MIT,Reject,2023,Fall,Master,美国,4.0,4.0
+378,Cyber Security@ETH,Admit,2024,Fall,Master,瑞士,100,90.28
+379,Cyber Security@ETH,Admit,2023,Fall,Master,瑞士,100,91.61
+380,Cybersecurity@NYU Tandon,Admit,2023,Fall,Master,美国,100,91.67
+381,Cybersecurity@SFU,Admit,2023,Fall,Master,加拿大,4.0,3.95
+382,Cybersecurity@SFU,Admit,2023,Fall,Master,加拿大,100,86.5
+383,Cybersecurity@SFU,Admit,2023,Fall,Master,加拿大,100,91.67
+384,DS@Columbia,Reject,2023,Fall,Master,美国,4.0,3.87
+385,DS@Harvard,Reject,2024,Fall,Master,美国,100,94.25
+386,DS@Harvard,Reject,2024,Fall,Master,美国,4.0,3.92
+387,DS@Harvard,Reject,2024,Fall,Master,美国,4.3,3.7
+388,DS@Harvard,Admit,2024,Fall,Master,美国,4.0,3.99
+389,DS@Harvard,Reject,2023,Fall,Master,美国,4.0,3.92
+390,DS@Harvard,Reject,2023,Fall,Master,美国,4.0,3.97
+391,DS@Harvard,Reject,2023,Fall,Master,美国,4.3,3.94
+392,DS@NYU,Reject,2024,Fall,Master,美国,4.0,3.87
+393,DS@NYU,Admit,2024,Fall,Master,美国,4.0,3.75
+394,DS@NYU,Admit,2023,Fall,Master,美国,4.0,3.96
+395,DS@NYU,Reject,2023,Fall,Master,美国,100,87.0
+396,DS@UMich,Admit,2024,Fall,Master,美国,4.0,3.82
+397,DS@UMich,Reject,2024,Fall,Master,美国,4.0,3.87
+398,DS@UMich,Admit,2023,Fall,Master,美国,4.0,3.87
+399,DS@UMich,Admit,2023,Fall,Master,美国,100,87.0
+400,DS@UPenn,Reject,2024,Fall,Master,美国,100,94.25
+401,DS@UPenn,Reject,2023,Fall,Master,美国,4.3,3.94
+402,DS75@UCSD,Reject,2024,Fall,Master,美国,4.0,3.82
+403,DS75@UCSD,Reject,2024,Fall,Master,美国,5.0,4.33
+404,DS75@UCSD,Reject,2024,Fall,Master,美国,4.0,3.21
+405,DS75@UCSD,Admit,2024,Fall,Master,美国,100,87.0
+406,DS75@UCSD,Admit,2024,Fall,Master,美国,4.0,3.87
+407,DS75@UCSD,Admit,2023,Fall,Master,美国,4.0,3.87
+408,DS75@UCSD,Admit,2023,Fall,Master,美国,100,87.0
+409,DSML@NUS,Admit,2023,Fall,Master,新加坡,4.0,3.92
+410,DSML@NUS,Reject,2023,Fall,Master,新加坡,4.0,3.94
+411,DSML@NUS,Admit,2023,Fall,Master,新加坡,4.0,3.92
+412,DSML@NUS,Admit,2023,Fall,Master,新加坡,100,87.0
+413,EC79@UCSD,Admit,2024,Fall,Master,美国,4.0,3.96
+414,EC79@UCSD,Admit,2024,Fall,Master,美国,100,93.5
+415,EC79@UCSD,Admit,2024,Fall,Master,美国,5.0,4.82
+416,EC79@UCSD,Admit,2024,Fall,Master,美国,4.0,3.77
+417,EC79@UCSD,Admit,2024,Fall,Master,美国,100,86.5
+418,EC79@UCSD,Reject,2023,Fall,Master,美国,100,92.3
+419,EC79@UCSD,Admit,2023,Fall,Master,美国,4.0,3.95
+420,EC79@UCSD,Admit,2023,Fall,Master,美国,100,86.5
+421,EC79@UCSD,Admit,2023,Fall,Master,美国,4.3,3.55
+422,EC79@UCSD,Reject,2023,Fall,Master,美国,100,89.7
+423,EC79@UCSD,Reject,2023,Fall,Master,美国,4.0,3.7
+424,EC79@UCSD,Reject,2023,Fall,Master,美国,4.0,3.3
+425,EC79@UCSD,Reject,2023,Fall,Master,美国,4.0,3.74
+426,EC79@UCSD,Reject,2023,Fall,Master,美国,100,90.9
+427,EC79@UCSD,Admit,2023,Fall,Master,美国,4.3,3.75
+428,EC79@UCSD,Admit,2022,Fall,Master,美国,100,88.42
+430,EC93@UCSD,Admit,2024,Fall,Master,美国,4.0,3.69
+431,EC93@UCSD,Admit,2024,Fall,Master,美国,4.0,3.75
+432,EC93@UCSD,Admit,2023,Fall,Master,美国,100,87.0
+433,ECE MASc@UofT,Reject,2023,Fall,Master,加拿大,4.0,3.73
+434,ECE Meng (Co-op)@Waterloo,Reject,2024,Fall,Master,加拿大,5.0,4.7
+435,ECE Meng (Co-op)@Waterloo,Reject,2024,Fall,Master,加拿大,100,93.05
+436,ECE Meng (Co-op)@Waterloo,Reject,2024,Fall,Master,加拿大,4.0,3.85
+437,ECE Meng (Co-op)@Waterloo,Reject,2023,Fall,Master,加拿大,4.0,3.74
+438,ECE Meng (Co-op)@Waterloo,默拒,2023,Fall,Master,加拿大,4.0,3.95
+439,ECE Meng (Co-op)@Waterloo,Reject,2023,Fall,Master,加拿大,100,88.8
+440,ECE Meng (Co-op)@Waterloo,Reject,2023,Fall,Master,加拿大,4.0,3.92
+441,ECE Meng (Co-op)@Waterloo,Reject,2023,Fall,Master,加拿大,4.0,3.94
+442,ECE Meng (Co-op)@Waterloo,Reject,2023,Fall,Master,加拿大,4.0,3.73
+443,ECE Meng (Co-op)@Waterloo,Reject,2023,Fall,Master,加拿大,100,86.5
+444,ECE Meng (Co-op)@Waterloo,Reject,2023,Fall,Master,加拿大,100,90.9
+445,ECE Meng (Co-op)@Waterloo,Admit,2023,Fall,Master,加拿大,4.0,3.7
+446,ECE Meng (Co-op)@Waterloo,Admit,2023,Fall,Master,加拿大,100,91.2
+447,ECE Meng (Co-op)@Waterloo,Reject,2023,Fall,Master,加拿大,4.3,3.55
+448,ECE Meng (Co-op)@Waterloo,Reject,2023,Fall,Master,加拿大,4.0,3.73
+449,ECE Meng (Co-op)@Waterloo,Reject,2023,Fall,Master,加拿大,100,90.52
+450,ECE Meng (Co-op)@Waterloo,Reject,2023,Fall,Master,加拿大,4.0,3.3
+451,ECE MEng@Cornell,Admit,2024,Fall,Master,美国,100,89.1
+452,ECE MEng@Cornell,Admit,2023,Fall,Master,美国,4.0,3.96
+453,ECE MEng@Cornell,Reject,2023,Fall,Master,美国,4.0,3.85
+454,ECE MEng@Cornell,Reject,2023,Fall,Master,美国,100,92.3
+455,ECE MEng@Cornell,Admit,2023,Fall,Master,美国,4.0,3.98
+456,ECE MEng@Cornell,Reject,2022,Fall,Master,美国,100,90.11
+457,ECE Meng@UBC,Reject,2024,Fall,Master,加拿大,5.0,4.7
+458,ECE Meng@UBC,Reject,2024,Fall,Master,加拿大,4.3,3.7
+459,ECE Meng@UBC,Reject,2024,Fall,Master,加拿大,4.3,3.7
+460,ECE Meng@UBC,Reject,2023,Fall,Master,加拿大,100,86.5
+461,ECE Meng@UBC,Admit,2023,Fall,Master,加拿大,4.0,3.94
+462,ECE Meng@UBC,Reject,2023,Fall,Master,加拿大,4.0,3.7
+463,ECE Meng@UBC,Reject,2023,Fall,Master,加拿大,4.0,3.74
+464,ECE Meng@UBC,Reject,2023,Fall,Master,加拿大,100,90.52
+465,ECE Meng@UBC,Reject,2023,Fall,Master,加拿大,100,90.9
+466,ECE Meng@UBC,Admit,2023,Fall,Master,加拿大,4.0,3.95
+467,ECE Meng@UBC,Admit,2023,Fall,Master,加拿大,4.0,3.92
+468,ECE Meng@UBC,Reject,2023,Fall,Master,加拿大,4.0,3.5
+469,ECE Meng@UBC,Reject,2023,Fall,Master,加拿大,4.0,3.3
+470,ECE Meng@UBC,Admit,2022,Fall,Master,加拿大,100,90.11
+471,ECE Meng@UIUC,Reject,2024,Fall,Master,美国,4.0,3.83
+472,ECE Meng@UIUC,Admit,2024,Fall,Master,美国,4.0,3.92
+473,ECE Meng@UIUC,Reject,2024,Fall,Master,美国,100,89.1
+474,ECE Meng@UIUC,Reject,2024,Fall,Master,美国,4.0,3.81
+475,ECE Meng@UIUC,Reject,2024,Fall,Master,美国,100,90.7
+476,ECE Meng@UIUC,Reject,2024,Fall,Master,美国,100,93.05
+477,ECE Meng@UIUC,Admit,2024,Fall,Master,美国,100,90.5
+478,ECE Meng@UIUC,Admit,2024,Fall,Master,美国,4.0,3.75
+479,ECE Meng@UIUC,Admit,2023,Fall,Master,美国,100,87.5
+480,ECE Meng@UIUC,Reject,2023,Fall,Master,美国,4.3,3.97
+481,ECE Meng@UIUC,Admit,2023,Fall,Master,美国,4.0,3.95
+482,ECE Meng@UIUC,Reject,2023,Fall,Master,美国,4.0,3.83
+483,ECE Meng@UIUC,Admit,2023,Fall,Master,美国,4.0,3.59
+484,ECE Meng@UIUC,Admit,2023,Fall,Master,美国,5.0,4.41
+485,ECE Meng@UIUC,Reject,2023,Fall,Master,美国,100,89.7
+486,ECE Meng@UIUC,Reject,2023,Fall,Master,美国,100,90.3
+487,ECE Meng@UIUC,Reject,2023,Fall,Master,美国,4.0,3.85
+488,ECE Meng@UIUC,Reject,2023,Fall,Master,美国,100,88.0
+489,ECE Meng@UIUC,Reject,2023,Fall,Master,美国,4.0,3.87
+490,ECE Meng@UIUC,Admit,2023,Fall,Master,美国,100,92.91
+491,ECE Meng@UIUC,Reject,2023,Fall,Master,美国,4.0,3.7
+492,ECE Meng@UIUC,Admit,2023,Fall,Master,美国,100,90.9
+493,ECE Meng@UIUC,Admit,2023,Fall,Master,美国,4.0,3.74
+494,ECE Meng@UIUC,Reject,2023,Fall,Master,美国,100,86.5
+495,ECE Meng@UIUC,Reject,2023,Fall,Master,美国,4.0,3.3
+496,ECE Meng@UIUC,Admit,2023,Fall,Master,美国,4.3,3.75
+497,ECE Meng@UIUC,Reject,2023,Fall,Master,美国,100,87.0
+498,ECE MEng@UofT,Admit,2024,Fall,Master,加拿大,100,93.05
+499,ECE MEng@UofT,Admit,2023,Fall,Master,加拿大,4.0,3.73
+500,ECE MEng@uOttawa,Admit,2024,Fall,Master,加拿大,5.0,4.7
+501,ECE MEng@uOttawa,Admit,2023,Fall,Master,加拿大,4.0,3.73
+502,ECE MEng@uOttawa,Admit,2023,Fall,Master,加拿大,100,87.6
+503,ECE Meng@UVic,Admit,2024,Fall,Master,加拿大,100,87.0
+504,ECE Meng@Waterloo,Admit,2024,Fall,Master,加拿大,5.0,4.7
+505,ECE Meng@Waterloo,Admit,2024,Fall,Master,加拿大,4.0,3.21
+506,ECE Meng@Waterloo,Admit,2024,Fall,Master,加拿大,4.0,3.85
+507,ECE Meng@Waterloo,Admit,2023,Fall,Master,加拿大,4.0,3.92
+508,ECE Meng@Waterloo,Reject,2023,Fall,Master,加拿大,4.0,3.7
+509,ECE Meng@Waterloo,Admit,2023,Fall,Master,加拿大,4.0,3.94
+510,ECE Meng@Waterloo,Admit,2023,Fall,Master,加拿大,100,88.0
+511,ECE Meng@Waterloo,Admit,2023,Fall,Master,加拿大,100,88.0
+512,ECE Meng@Waterloo,Admit,2023,Fall,Master,加拿大,英制100,71.0
+513,ECE Meng@Waterloo,Admit,2023,Fall,Master,加拿大,4.0,3.73
+514,ECE Meng@Waterloo,Admit,2023,Fall,Master,加拿大,100,86.5
+515,ECE Meng@Waterloo,Admit,2023,Fall,Master,加拿大,100,86.5
+516,ECE Meng@Waterloo,Admit,2023,Fall,Master,加拿大,100,90.52
+517,ECE Meng@Waterloo,Admit,2023,Fall,Master,加拿大,4.3,3.55
+518,ECE Meng@Waterloo,Reject,2023,Fall,Master,加拿大,4.0,3.3
+519,ECE PhD@UT-Austin,Admit,2023,Fall,PhD,美国,4.0,3.76
+520,ECE-MASc@UBC,Reject,2023,Fall,Master,加拿大,4.0,3.68
+521,ECE-MASc@UBC,Admit,2023,Fall,Master,加拿大,4.0,3.73
+522,ECE@CMU,Admit,2025,Spring,Master,美国,4.0,3.88
+523,ECE@CMU,Reject,2024,Fall,Master,美国,4.0,3.96
+524,ECE@CMU,Reject,2024,Fall,Master,美国,100,91.82
+525,ECE@CMU,Reject,2024,Fall,Master,美国,4.0,3.81
+526,ECE@CMU,Reject,2024,Fall,Master,美国,4.0,3.92
+527,ECE@CMU,Reject,2024,Fall,Master,美国,4.0,3.82
+528,ECE@CMU,Reject,2024,Fall,Master,美国,100,90.5
+529,ECE@CMU,Reject,2024,Fall,Master,美国,100,91.11
+530,ECE@CMU,Admit,2024,Fall,Master,美国,100,89.1
+531,ECE@CMU,Admit,2024,Fall,Master,美国,4.0,3.87
+532,ECE@CMU,Admit,2024,Spring,Master,美国,100,90.3
+533,ECE@CMU,Reject,2023,Fall,Master,美国,100,90.9
+534,ECE@CMU,Reject,2023,Fall,Master,美国,100,86.74
+535,ECE@CMU,Reject,2023,Fall,Master,美国,4.0,3.5
+536,ECE@CMU,Reject,2023,Fall,Master,美国,4.3,3.97
+537,ECE@CMU,Reject,2023,Fall,Master,美国,100,91.63
+538,ECE@CMU,Reject,2023,Fall,Master,美国,4.0,3.92
+539,ECE@CMU,Reject,2023,Fall,Master,美国,4.0,3.85
+540,ECE@CMU,Reject,2023,Fall,Master,美国,4.0,3.86
+541,ECE@CMU,Reject,2023,Fall,Master,美国,4.0,3.83
+542,ECE@CMU,Admit,2023,Fall,Master,美国,4.0,3.97
+543,ECE@CMU,Admit,2023,Fall,Master,美国,100,94.48
+544,ECE@CMU,Admit,2023,Fall,Master,美国,4.0,3.95
+545,ECE@CMU,Admit,2023,Fall,Master,美国,4.0,3.98
+546,ECE@CMU,Admit,2023,Fall,Master,美国,4.0,3.8
+547,ECE@CMU,Admit,2023,Fall,Master,美国,4.0,3.78
+548,ECE@CMU,Reject,2023,Fall,Master,美国,4.3,3.75
+549,ECE@CMU,Reject,2023,Fall,Master,美国,100,87.0
+550,ECE@CMU,Reject,2022,Fall,Master,美国,100,88.42
+551,ECE@Duke,Admit,2024,Fall,Master,美国,4.0,3.75
+552,ECE@Duke,Reject,2024,Fall,Master,美国,100,89.1
+553,ECE@Duke,Admit,2024,Fall,Master,美国,4.0,3.96
+554,ECE@Duke,Admit,2024,Fall,Master,美国,4.0,3.82
+555,ECE@Duke,Admit,2024,Fall,Master,美国,4.0,3.94
+556,ECE@Duke,Admit,2024,Fall,Master,美国,4.0,3.92
+557,ECE@Duke,Admit,2024,Fall,Master,美国,4.0,3.81
+558,ECE@Duke,Reject,2024,Fall,Master,美国,4.0,3.75
+559,ECE@Duke,Reject,2023,Fall,Master,美国,5.0,4.43
+560,ECE@Duke,Reject,2023,Fall,Master,美国,100,86.74
+561,ECE@Duke,Reject,2023,Fall,Master,美国,4.0,3.92
+562,ECE@Duke,Reject,2023,Fall,Master,美国,4.3,3.7
+563,ECE@Duke,Reject,2023,Fall,Master,美国,4.0,3.5
+564,ECE@Duke,Reject,2023,Fall,Master,美国,4.0,3.76
+565,ECE@Duke,Reject,2023,Fall,Master,美国,4.0,3.87
+566,ECE@Duke,Reject,2023,Fall,Master,美国,100,87.5
+567,ECE@Duke,Reject,2023,Fall,Master,美国,100,86.99
+568,ECE@Duke,Reject,2023,Fall,Master,美国,4.0,3.3
+569,ECE@Duke,Reject,2023,Fall,Master,美国,4.0,3.7
+570,ECE@Duke,Reject,2023,Fall,Master,美国,5.0,4.41
+571,ECE@Duke,Admit,2023,Fall,Master,美国,4.0,3.92
+572,ECE@Duke,Admit,2023,Fall,Master,美国,100,90.9
+573,ECE@Duke,Admit,2023,Fall,Master,美国,4.0,3.94
+574,ECE@Duke,Admit,2023,Fall,Master,美国,4.3,3.96
+575,ECE@Duke,Admit,2023,Fall,Master,美国,4.3,3.97
+576,ECE@Duke,Admit,2023,Fall,Master,美国,5.0,4.55
+577,ECE@Duke,Admit,2023,Fall,Master,美国,4.0,3.98
+578,ECE@Duke,Admit,2023,Fall,Master,美国,100,88.0
+579,ECE@Duke,Reject,2023,Fall,Master,美国,4.3,3.75
+580,ECE@Duke,Reject,2022,Fall,Master,美国,100,90.11
+581,ECE@Duke-Kunshan,Admit,2024,Fall,Master,中国,100,93.5
+582,ECE@Duke-Kunshan,Admit,2024,Fall,Master,中国,其他,3.78
+583,ECE@Duke-Kunshan,Admit,2024,Fall,Master,中国,4.0,3.7
+584,ECE@Duke-Kunshan,Admit,2023,Fall,Master,中国,5.0,4.43
+585,ECE@Duke-Kunshan,Admit,2023,Fall,Master,中国,4.0,3.83
+586,ECE@Duke-Kunshan,Admit,2023,Fall,Master,中国,100,89.7
+587,ECE@Duke-Kunshan,Admit,2023,Fall,Master,中国,100,88.0
+588,ECE@GaTech,Reject,2024,Fall,Master,美国,100,89.1
+589,ECE@GaTech,Admit,2024,Fall,Master,美国,4.0,3.96
+590,ECE@GaTech,Reject,2023,Fall,Master,美国,4.3,3.97
+591,ECE@GaTech,Admit,2023,Fall,Master,美国,5.0,4.75
+592,ECE@GaTech-Shenzhen,Admit,2023,Fall,Master,中国,100,89.7
+593,ECE@Purdue,Admit,2023,Fall,Master,美国,4.0,3.85
+594,ECE@UCLA,Admit,2024,Fall,Master,美国,4.0,3.96
+595,ECE@UT Austin,Reject,2024,Fall,Master,美国,4.0,3.75
+596,ECE@UT Austin,Reject,2024,Fall,Master,美国,4.0,3.82
+597,ECE@UT Austin,Reject,2024,Fall,Master,美国,100,89.1
+598,ECE@UT Austin,Reject,2024,Fall,Master,美国,4.0,3.81
+599,ECE@UT Austin,Reject,2024,Fall,Master,美国,100,90.5
+600,ECE@UT Austin,Reject,2024,Fall,Master,美国,100,91.11
+601,ECE@UT Austin,Admit,2024,Fall,Master,美国,100,94.25
+602,ECE@UT Austin,Admit,2024,Fall,Master,美国,4.0,3.92
+603,ECE@UT Austin,Reject,2023,Fall,Master,美国,100,86.5
+604,ECE@UT Austin,Reject,2023,Fall,Master,美国,5.0,4.43
+605,ECE@UT Austin,Reject,2023,Fall,Master,美国,4.3,4.1
+606,ECE@UT Austin,Reject,2023,Fall,Master,美国,4.3,3.97
+607,ECE@UT Austin,Reject,2023,Fall,Master,美国,5.0,4.41
+608,ECE@UT Austin,Admit,2023,Fall,Master,美国,4.0,3.9
+609,ECE@UT Austin,Reject,2023,Fall,Master,美国,100,92.3
+610,ECE@UT Austin,Admit,2023,Fall,Master,美国,100,90.3
+611,ECE@UT Austin,Admit,2023,Fall,Master,美国,4.0,3.95
+612,ECE@UT Austin,Admit,2023,Fall,Master,美国,4.0,3.84
+613,ECE@UT Austin,Admit,2022,Fall,Master,美国,100,90.11
+614,ECE@UT Austin,Admit,2022,Fall,Master,美国,100,88.42
+615,EDIC PhD@EPFL,Reject,2023,Fall,PhD,瑞士,4.0,3.88
+616,EDIC PhD@EPFL,Reject,2023,Fall,PhD,瑞士,4.0,3.86
+617,EE PMP@UW,Reject,2024,Fall,Master,美国,4.3,3.7
+618,EE PMP@UW,Admit,2024,Fall,Master,美国,4.0,3.5
+619,EE PMP@UW,Admit,2024,Fall,Master,美国,5.0,4.33
+620,EE PMP@UW,Admit,2024,Fall,Master,美国,4.0,3.75
+621,EE PMP@UW,Admit,2024,Fall,Master,美国,100,89.1
+622,EE PMP@UW,Admit,2024,Fall,Master,美国,100,90.5
+623,EE PMP@UW,Admit,2023,Fall,Master,美国,4.3,3.41
+624,EE PMP@UW,Admit,2023,Fall,Master,美国,4.0,3.37
+625,EE PMP@UW,Admit,2023,Fall,Master,美国,100,86.74
+626,EE PMP@UW,Admit,2023,Fall,Master,美国,4.0,3.92
+627,EE PMP@UW,Admit,2023,Fall,Master,美国,4.0,3.85
+628,EE PMP@UW,Admit,2023,Fall,Master,美国,100,88.0
+629,EE PMP@UW,Admit,2023,Fall,Master,美国,100,86.5
+630,EE@Caltech,Reject,2024,Fall,Master,美国,4.0,3.96
+631,EE@Caltech,Reject,2023,Fall,Master,美国,4.3,3.97
+632,EE@Columbia,Admit,2024,Fall,Master,美国,4.0,3.7
+633,EE@Columbia,Admit,2024,Fall,Master,美国,4.0,3.7
+634,EE@Columbia,Admit,2023,Fall,Master,美国,4.0,3.85
+635,EE@Stanford,Reject,2024,Fall,Master,美国,100,90.28
+636,EE@Stanford,Reject,2024,Fall,Master,美国,4.0,3.96
+637,EE@Stanford,Reject,2024,Fall,Master,美国,4.0,3.98
+638,EE@Stanford,Reject,2024,Fall,Master,美国,100,92.0
+639,EE@Stanford,Reject,2024,Fall,Master,美国,100,91.82
+640,EE@Stanford,Reject,2024,Fall,Master,美国,100,94.25
+641,EE@Stanford,Reject,2024,Fall,Master,美国,4.0,3.77
+642,EE@Stanford,Reject,2024,Fall,Master,美国,4.0,3.75
+643,EE@Stanford,Reject,2024,Fall,Master,美国,100,90.5
+644,EE@Stanford,Reject,2024,Fall,Master,美国,100,91.11
+645,EE@Stanford,Reject,2023,Fall,Master,美国,4.3,3.96
+646,EE@Stanford,Reject,2023,Fall,Master,美国,4.0,3.8
+647,EE@Stanford,Reject,2023,Fall,Master,美国,4.0,3.98
+648,EE@Stanford,Reject,2023,Fall,Master,美国,4.3,3.97
+649,EE@Stanford,Admit,2023,Fall,Master,美国,4.3,3.94
+650,EE@Stanford,Admit,2023,Fall,Master,美国,4.0,3.97
+651,EE@Stanford,Admit,2023,Fall,Master,美国,100,92.3
+652,EE@Stanford,Admit,2023,Fall,Master,美国,4.0,3.95
+654,EE@Upenn,Admit,2023,Fall,Master,美国,100,86.5
+655,EECS Meng@Berkeley,Reject,2024,Fall,Master,美国,4.0,3.94
+656,EECS Meng@Berkeley,Reject,2024,Fall,Master,美国,4.3,3.7
+657,EECS Meng@Berkeley,Reject,2024,Fall,Master,美国,4.0,3.97
+658,EECS Meng@Berkeley,Reject,2024,Fall,Master,美国,100,91.11
+659,EECS Meng@Berkeley,Admit,2024,Fall,Master,美国,100,94.25
+660,EECS Meng@Berkeley,Admit,2024,Fall,Master,美国,100,92.0
+661,EECS Meng@Berkeley,Admit,2024,Fall,Master,美国,100,91.82
+662,EECS Meng@Berkeley,Reject,2023,Fall,Master,美国,4.3,3.97
+663,EECS Meng@Berkeley,默拒,2023,Fall,Master,美国,4.0,3.94
+664,EECS Meng@Berkeley,Reject,2023,Fall,Master,美国,100,94.48
+665,EECS Meng@Berkeley,Reject,2023,Fall,Master,美国,4.0,3.92
+666,EECS Meng@Berkeley,Reject,2023,Fall,Master,美国,4.3,4.09
+667,EECS Meng@Berkeley,Reject,2023,Fall,Master,美国,100,86.74
+668,EECS Meng@Berkeley,Reject,2023,Fall,Master,美国,4.3,3.55
+669,EECS Meng@Berkeley,Reject,2023,Fall,Master,美国,100,92.3
+670,EECS Meng@Berkeley,Waitlist,2023,Fall,Master,美国,4.0,3.95
+671,EECS Meng@Berkeley,默拒,2023,Fall,Master,美国,其他,27.89
+672,EECS Meng@Berkeley,Admit,2023,Fall,Master,美国,4.3,3.94
+673,EECS Meng@Berkeley,Admit,2023,Fall,Master,美国,4.0,3.96
+674,EECS Meng@Berkeley,Admit,2023,Fall,Master,美国,4.0,3.95
+675,EECS Meng@Berkeley,Admit,2023,Fall,Master,美国,4.0,3.94
+676,EECS Meng@Berkeley,Admit,2023,Fall,Master,美国,4.0,3.97
+677,EECS Meng@Berkeley,Admit,2023,Fall,Master,美国,4.3,3.96
+678,EECS Meng@Berkeley,Reject,2022,Fall,Master,美国,100,90.11
+679,EECS Meng@Berkeley,Reject,2022,Fall,Master,美国,100,88.42
+680,EECS Meng@Berkeley,Reject,2022,Fall,Master,美国,100,89.28
+681,EECS PhD@MIT,Reject,2024,Fall,PhD,美国,4.0,3.97
+682,ESE PhD@Upenn,Admit,2023,Fall,PhD,美国,4.0,3.96
+683,ICME@Stanford,Reject,2023,Fall,Master,美国,4.0,3.97
+684,IEOR MEng@Berkeley,Admit,2023,Fall,Master,美国,4.0,3.92
+685,IS@NEU,Admit,2023,Fall,Master,美国,4.3,3.55
+686,IS@NEU,Admit,2023,Fall,Master,美国,100,86.99
+687,IS@NEU,Admit,2023,Fall,Master,美国,100,86.5
+688,IS@NEU,Admit,2023,Fall,Master,美国,4.0,3.74
+689,IS@NEU,Admit,2023,Fall,Master,美国,4.0,3.3
+690,Math PhD@UCLA,Reject,2023,Fall,PhD,美国,4.0,3.86
+691,MCDS@CMU,Reject,2024,Fall,Master,美国,4.0,3.75
+692,MCDS@CMU,Admit,2024,Fall,Master,美国,4.0,3.98
+693,MCDS@CMU,Reject,2024,Fall,Master,美国,4.0,3.83
+694,MCDS@CMU,Reject,2024,Fall,Master,美国,100,91.82
+695,MCDS@CMU,Admit,2024,Fall,Master,美国,4.0,3.87
+696,MCDS@CMU,Admit,2024,Fall,Master,美国,4.0,3.93
+697,MCDS@CMU,Reject,2024,Fall,Master,美国,4.0,3.69
+698,MCDS@CMU,Reject,2024,Fall,Master,美国,100,90.5
+699,MCDS@CMU,Admit,2024,Fall,Master,美国,100,91.11
+700,MCDS@CMU,Reject,2023,Fall,Master,美国,4.0,3.92
+701,MCDS@CMU,Admit,2023,Fall,Master,美国,4.3,3.94
+702,MCDS@CMU,Reject,2023,Fall,Master,美国,4.3,4.09
+703,MCDS@CMU,Reject,2023,Fall,Master,美国,100,90.3
+704,MCDS@CMU,Reject,2023,Fall,Master,美国,4.0,3.95
+705,MCDS@CMU,Reject,2023,Fall,Master,美国,100,89.61
+706,MCDS@CMU,Reject,2023,Fall,Master,美国,100,90.52
+707,MCDS@CMU,Reject,2023,Fall,Master,美国,4.0,3.91
+708,MCDS@CMU,Reject,2023,Fall,Master,美国,100,91.18
+709,MCDS@CMU,Reject,2023,Fall,Master,美国,4.0,3.96
+710,MCDS@CMU,Admit,2023,Fall,Master,美国,100,91.61
+711,MCDS@CMU,Reject,2023,Fall,Master,美国,100,91.63
+712,MCDS@CMU,Reject,2023,Fall,Master,美国,4.3,4.1
+713,MCDS@CMU,Admit,2023,Fall,Master,美国,100,92.3
+714,MCDS@CMU,Reject,2023,Fall,Master,美国,4.0,3.97
+715,MCDS@CMU,Admit,2023,Fall,Master,美国,100,94.48
+716,MCDS@CMU,Admit,2023,Fall,Master,美国,4.0,3.88
+717,MCDS@CMU,Reject,2023,Fall,Master,美国,4.0,3.95
+718,MCIS@UPenn,Waitlist,2024,Fall,Master,美国,4.0,3.89
+719,MCIS@UPenn,Reject,2024,Fall,Master,美国,4.0,3.97
+720,MCIS@UPenn,Admit,2024,Fall,Master,美国,4.0,3.97
+721,MCIS@UPenn,Reject,2024,Fall,Master,美国,100,91.08
+722,MCIS@UPenn,Reject,2024,Fall,Master,美国,4.0,3.93
+723,MCIS@UPenn,Reject,2024,Fall,Master,美国,4.3,4.05
+724,MCIS@UPenn,Reject,2024,Fall,Master,美国,4.3,3.7
+725,MCIS@UPenn,Reject,2023,Fall,Master,美国,5.0,4.55
+726,MCIS@UPenn,Admit,2023,Fall,Master,美国,4.0,3.86
+727,MCIS@UPenn,Reject,2023,Fall,Master,美国,100,94.48
+728,MCIS@UPenn,Reject,2023,Fall,Master,美国,4.0,3.9
+729,MCIS@UPenn,Reject,2023,Fall,Master,美国,4.0,3.97
+730,MCIS@UPenn,Reject,2023,Fall,Master,美国,100,89.7
+731,MCIS@UPenn,Reject,2023,Fall,Master,美国,100,91.18
+732,MCIS@UPenn,Reject,2023,Fall,Master,美国,5.0,4.57
+733,MCIS@UPenn,Reject,2023,Fall,Master,美国,4.0,3.94
+734,MCIS@UPenn,Reject,2023,Fall,Master,美国,4.0,3.8
+735,MCIS@UPenn,Admit,2023,Fall,Master,美国,4.0,3.88
+736,MCIS@UPenn,Reject,2022,Fall,Master,美国,100,88.42
+737,MCIT@UPenn,Reject,2023,Fall,Master,美国,4.0,3.92
+738,MComp@NUS,Admit,2023,Fall,Master,新加坡,4.0,3.37
+739,MCS (MComp CS Specialisation)@NUS,Admit,2024,Fall,Master,新加坡,100,85.14
+740,MCS (MComp CS Specialisation)@NUS,Admit,2024,Fall,Master,新加坡,4.3,3.7
+741,MCS (MComp CS Specialisation)@NUS,Admit,2023,Fall,Master,新加坡,5.0,4.41
+742,MCS (MComp CS Specialisation)@NUS,Admit,2022,Fall,Master,新加坡,100,90.11
+743,MCS in Chicago@UIUC,Reject,2024,Fall,Master,美国,4.0,3.83
+744,MCS@NCSU,Admit,2024,Fall,Master,美国,5.0,4.33
+745,MCS@NCSU,Admit,2024,Fall,Master,美国,4.0,3.5
+746,MCS@NCSU,Admit,2023,Fall,Master,美国,4.0,3.7
+747,MCS@NCSU,Reject,2023,Fall,Master,美国,4.3,3.55
+748,MCS@NCSU,Reject,2023,Fall,Master,美国,5.0,4.55
+749,MCS@NCSU,Admit,2023,Fall,Master,美国,100,86.5
+750,MCS@NCSU,Admit,2023,Fall,Master,美国,100,86.99
+751,MCS@NCSU,Admit,2023,Fall,Master,美国,100,86.5
+752,MCS@NCSU,Admit,2023,Fall,Master,美国,4.0,3.65
+753,MCS@NCSU,Admit,2023,Fall,Master,美国,4.0,3.3
+754,MCS@NCSU,Admit,2023,Fall,Master,美国,4.0,3.1
+755,MCS@NCSU,Admit,2023,Fall,Master,美国,4.3,3.83
+756,MCS@NCSU,Admit,2023,Fall,Master,美国,4.3,3.41
+757,MCS@Rice,Admit,2024,Fall,Master,美国,4.0,3.96
+758,MCS@Rice,Reject,2024,Fall,Master,美国,4.3,3.7
+759,MCS@Rice,Reject,2024,Fall,Master,美国,4.0,3.46
+760,MCS@Rice,Admit,2024,Fall,Master,美国,100,93.5
+761,MCS@Rice,Reject,2024,Fall,Master,美国,4.0,3.85
+762,MCS@Rice,Reject,2024,Fall,Master,美国,5.0,4.33
+763,MCS@Rice,Reject,2024,Fall,Master,美国,4.0,3.81
+764,MCS@Rice,Reject,2024,Fall,Master,美国,100,85.14
+765,MCS@Rice,Admit,2024,Fall,Master,美国,4.0,3.83
+766,MCS@Rice,Admit,2024,Fall,Master,美国,4.0,3.87
+767,MCS@Rice,Admit,2024,Fall,Master,美国,100,89.1
+768,MCS@Rice,Admit,2024,Fall,Master,美国,100,90.6
+769,MCS@Rice,Admit,2024,Fall,Master,美国,4.0,3.92
+770,MCS@Rice,Admit,2024,Fall,Master,美国,100,90.5
+771,MCS@Rice,Admit,2024,Fall,Master,美国,100,91.08
+772,MCS@Rice,Admit,2024,Fall,Master,美国,100,90.5
+773,MCS@Rice,Admit,2024,Fall,Master,美国,4.0,3.94
+774,MCS@Rice,Admit,2024,Fall,Master,美国,100,94.25
+775,MCS@Rice,Admit,2024,Fall,Master,美国,4.0,3.97
+776,MCS@Rice,Reject,2023,Fall,Master,美国,5.0,4.43
+777,MCS@Rice,Reject,2023,Fall,Master,美国,4.0,3.48
+778,MCS@Rice,Reject,2023,Fall,Master,美国,100,86.74
+779,MCS@Rice,Reject,2023,Fall,Master,美国,4.0,3.7
+780,MCS@Rice,Admit,2023,Fall,Master,美国,4.0,3.95
+781,MCS@Rice,Reject,2023,Fall,Master,美国,100,88.0
+782,MCS@Rice,Admit,2023,Fall,Master,美国,100,89.7
+783,MCS@Rice,Reject,2023,Fall,Master,美国,100,86.99
+784,MCS@Rice,Reject,2023,Fall,Master,美国,4.0,3.87
+785,MCS@Rice,Reject,2023,Fall,Master,美国,4.0,3.82
+786,MCS@Rice,Admit,2023,Fall,Master,美国,100,90.52
+787,MCS@Rice,Reject,2023,Fall,Master,美国,4.0,3.85
+788,MCS@Rice,Reject,2023,Fall,Master,美国,5.0,4.55
+789,MCS@Rice,Admit,2023,Fall,Master,美国,100,92.3
+790,MCS@Rice,Reject,2023,Fall,Master,美国,4.0,3.48
+791,MCS@Rice,Reject,2023,Fall,Master,美国,100,87.5
+792,MCS@Rice,Admit,2023,Fall,Master,美国,100,87.0
+793,MCS@Rice,Admit,2023,Fall,Master,美国,4.0,3.92
+794,MCS@Rice,Reject,2023,Fall,Master,美国,4.0,3.33
+795,MCS@Rice,Reject,2023,Fall,Master,美国,4.3,3.7
+796,MCS@Rice,Admit,2023,Fall,Master,美国,4.0,3.75
+797,MCS@Rice,Admit,2023,Fall,Master,美国,4.0,3.8
+798,MCS@Rice,Reject,2023,Fall,Master,美国,4.0,3.87
+799,MCS@Rice,Admit,2023,Fall,Master,美国,100,90.9
+800,MCS@Rice,Reject,2023,Fall,Master,美国,4.0,3.74
+801,MCS@Rice,Reject,2023,Fall,Master,美国,5.0,4.41
+802,MCS@Rice,Reject,2023,Fall,Master,美国,4.0,3.7
+803,MCS@Rice,Admit,2023,Fall,Master,美国,4.0,3.91
+804,MCS@Rice,Reject,2023,Fall,Master,美国,4.3,3.97
+805,MCS@Rice,Admit,2023,Fall,Master,美国,100,91.63
+806,MCS@Rice,Reject,2023,Fall,Master,美国,4.0,3.3
+807,MCS@Rice,Reject,2023,Fall,Master,美国,100,92.91
+808,MCS@Rice,Reject,2023,Fall,Master,美国,4.0,3.37
+809,MCS@Rice,Admit,2023,Fall,Master,美国,4.0,3.84
+810,MCS@Rice,Admit,2023,Fall,Master,美国,其他,27.89
+811,MCS@Rice,Admit,2023,Fall,Master,美国,4.0,3.92
+812,MCS@Rice,Reject,2023,Fall,Master,美国,100,87.0
+813,MCS@Rice,Reject,2022,Fall,Master,美国,100,90.11
+814,MCS@TAMU,Admit,2024,Fall,Master,美国,4.0,3.5
+815,MCS@TAMU,Admit,2024,Fall,Master,美国,100,90.6
+816,MCS@TAMU,Admit,2024,Fall,Master,美国,4.0,3.92
+817,MCS@TAMU,Admit,2024,Fall,Master,美国,100,90.5
+818,MCS@TAMU,Reject,2023,Fall,Master,美国,100,86.5
+819,MCS@TAMU,Reject,2023,Fall,Master,美国,4.0,3.92
+820,MCS@TAMU,Reject,2023,Fall,Master,美国,4.0,3.74
+821,MCS@TAMU,Admit,2023,Fall,Master,美国,4.3,3.97
+822,MCS@TAMU,Admit,2023,Fall,Master,美国,4.0,3.78
+823,MCS@TAMU,Admit,2023,Fall,Master,美国,4.0,3.95
+824,MCS@TAMU,Admit,2023,Fall,Master,美国,100,88.0
+825,MCS@TAMU,Admit,2023,Fall,Master,美国,100,86.99
+826,MCS@TAMU,Admit,2023,Fall,Master,美国,4.3,3.55
+827,MCS@TAMU,Admit,2023,Fall,Master,美国,4.0,3.83
+828,MCS@TAMU,Admit,2022,Fall,Master,美国,100,90.11
+829,MCS@UCI,Reject,2024,Fall,Master,美国,4.0,3.83
+830,MCS@UCI,Admit,2024,Fall,Master,美国,5.0,4.33
+831,MCS@UCI,Admit,2024,Fall,Master,美国,100,91.08
+832,MCS@UCI,Reject,2024,Fall,Master,美国,4.0,3.92
+833,MCS@UCI,Reject,2024,Fall,Master,美国,100,90.6
+834,MCS@UCI,Reject,2023,Fall,Master,美国,100,86.5
+835,MCS@UCI,Reject,2023,Fall,Master,美国,5.0,4.43
+836,MCS@UCI,Reject,2023,Fall,Master,美国,100,90.9
+837,MCS@UCI,Reject,2023,Fall,Master,美国,4.0,3.84
+838,MCS@UCI,Reject,2023,Fall,Master,美国,5.0,4.41
+839,MCS@UCI,Reject,2023,Fall,Master,美国,4.0,3.8
+840,MCS@UCI,Reject,2023,Fall,Master,美国,4.0,3.74
+841,MCS@UCI,Reject,2023,Fall,Master,美国,4.0,3.37
+842,MCS@UCI,Reject,2023,Fall,Master,美国,4.0,3.87
+843,MCS@UCI,默拒,2023,Fall,Master,美国,4.0,3.95
+844,MCS@UCI,Reject,2023,Fall,Master,美国,4.0,3.48
+845,MCS@UCI,Admit,2023,Fall,Master,美国,4.3,3.55
+846,MCS@UCI,Reject,2023,Fall,Master,美国,4.0,3.69
+847,MCS@UCI,Reject,2023,Fall,Master,美国,5.0,4.55
+848,MCS@UCI,Reject,2023,Fall,Master,美国,4.3,3.97
+849,MCS@UCI,Reject,2022,Fall,Master,美国,100,90.11
+850,MCS@UIUC,Reject,2024,Fall,Master,美国,4.0,3.75
+851,MCS@UIUC,Reject,2024,Fall,Master,美国,100,94.25
+852,MCS@UIUC,Reject,2024,Fall,Master,美国,4.3,3.7
+853,MCS@UIUC,Reject,2024,Fall,Master,美国,4.0,3.83
+854,MCS@UIUC,Reject,2024,Fall,Master,美国,4.0,3.81
+855,MCS@UIUC,Waitlist,2024,Fall,Master,美国,100,91.7
+856,MCS@UIUC,Reject,2024,Fall,Master,美国,4.3,3.7
+857,MCS@UIUC,Admit,2024,Fall,Master,美国,100,91.82
+858,MCS@UIUC,Admit,2024,Fall,Master,美国,4.0,3.97
+859,MCS@UIUC,Admit,2024,Fall,Master,美国,100,91.11
+860,MCS@UIUC,Admit,2024,Fall,Master,美国,4.0,3.93
+861,MCS@UIUC,Reject,2024,Fall,Master,美国,4.0,3.96
+862,MCS@UIUC,Reject,2024,Fall,Master,美国,100,92.0
+863,MCS@UIUC,Reject,2024,Fall,Master,美国,100,90.6
+864,MCS@UIUC,Reject,2024,Fall,Master,美国,4.0,3.92
+865,MCS@UIUC,Reject,2024,Fall,Master,美国,4.0,3.82
+866,MCS@UIUC,Reject,2024,Fall,Master,美国,100,93.05
+867,MCS@UIUC,Reject,2024,Fall,Master,美国,4.0,3.7
+868,MCS@UIUC,Reject,2024,Fall,Master,美国,4.0,3.69
+869,MCS@UIUC,Reject,2024,Fall,Master,美国,100,89.1
+870,MCS@UIUC,Reject,2024,Fall,Master,美国,5.0,4.33
+871,MCS@UIUC,Reject,2024,Fall,Master,美国,100,90.1
+872,MCS@UIUC,Reject,2024,Fall,Master,美国,4.0,3.94
+873,MCS@UIUC,Admit,2024,Spring,Master,美国,4.0,3.7
+874,MCS@UIUC,Admit,2024,Spring,Master,美国,4.0,3.48
+875,MCS@UIUC,Admit,2024,Spring,Master,美国,100,90.3
+876,MCS@UIUC,Admit,2024,Spring,Master,美国,4.0,3.74
+877,MCS@UIUC,Admit,2024,Spring,Master,美国,4.0,3.84
+878,MCS@UIUC,Reject,2023,Fall,Master,美国,100,88.0
+879,MCS@UIUC,Admit,2023,Fall,Master,美国,4.0,3.98
+880,MCS@UIUC,Reject,2023,Fall,Master,美国,4.3,3.94
+881,MCS@UIUC,Reject,2023,Fall,Master,美国,4.0,3.92
+882,MCS@UIUC,Reject,2023,Fall,Master,美国,5.0,4.55
+883,MCS@UIUC,Reject,2023,Fall,Master,美国,100,87.5
+884,MCS@UIUC,Reject,2023,Fall,Master,美国,4.0,3.85
+885,MCS@UIUC,Reject,2023,Fall,Master,美国,4.0,3.95
+886,MCS@UIUC,Reject,2023,Fall,Master,美国,100,92.3
+887,MCS@UIUC,Reject,2023,Fall,Master,美国,4.0,3.87
+888,MCS@UIUC,Reject,2023,Fall,Master,美国,100,86.5
+889,MCS@UIUC,Reject,2023,Fall,Master,美国,4.0,3.87
+890,MCS@UIUC,Admit,2023,Fall,Master,美国,4.0,3.59
+891,MCS@UIUC,Admit,2023,Fall,Master,美国,4.0,3.95
+892,MCS@UIUC,Reject,2023,Fall,Master,美国,4.3,4.1
+893,MCS@UIUC,Reject,2023,Fall,Master,美国,100,90.52
+894,MCS@UIUC,Waitlist,2023,Fall,Master,美国,100,89.7
+895,MCS@UIUC,Admit,2023,Fall,Master,美国,4.0,3.75
+896,MCS@UIUC,Admit,2023,Fall,Master,美国,4.0,3.86
+897,MCS@UIUC,Admit,2023,Fall,Master,美国,100,91.63
+898,MCS@UIUC,Reject,2023,Fall,Master,美国,4.3,3.7
+899,MCS@UIUC,Reject,2023,Fall,Master,美国,4.0,3.5
+900,MCS@UIUC,Reject,2023,Fall,Master,美国,100,86.99
+901,MCS@UIUC,Reject,2023,Fall,Master,美国,4.0,3.82
+902,MCS@UIUC,Reject,2023,Fall,Master,美国,4.0,3.85
+903,MCS@UIUC,Reject,2023,Fall,Master,美国,4.0,3.91
+904,MCS@UIUC,Admit,2023,Fall,Master,美国,4.0,3.94
+905,MCS@UIUC,Reject,2023,Fall,Master,美国,4.0,3.7
+906,MCS@UIUC,Reject,2023,Fall,Master,美国,100,86.3
+907,MCS@UIUC,Reject,2023,Fall,Master,美国,4.3,3.55
+908,MCS@UIUC,Reject,2023,Fall,Master,美国,5.0,4.41
+909,MCS@UIUC,Reject,2023,Fall,Master,美国,4.0,3.92
+910,MCS@UIUC,Admit,2023,Fall,Master,美国,4.0,3.97
+911,MCS@UIUC,Reject,2023,Fall,Master,美国,4.3,3.75
+912,MCS@UIUC,Reject,2023,Fall,Master,美国,100,90.9
+913,MCS@UIUC,Admit,2022,Fall,Master,美国,100,88.42
+914,MCS@UIUC,Reject,2022,Fall,Master,美国,100,90.11
+915,MCS@UIUC,Reject,2022,Fall,Master,美国,100,89.28
+916,MCS@uOttawa,Reject,2024,Fall,Master,加拿大,5.0,4.7
+917,MCS@uOttawa,Reject,2023,Fall,Master,加拿大,4.0,3.3
+918,MCS@UVa,Reject,2024,Fall,Master,美国,4.0,3.21
+919,MCS@UVa,Admit,2024,Fall,Master,美国,100,90.6
+920,MCS@UVa,Reject,2024,Fall,Master,美国,5.0,4.33
+921,MCS@UVa,Admit,2023,Fall,Master,美国,100,86.99
+922,MCS@UVa,Admit,2023,Fall,Master,美国,4.0,3.85
+923,MCS@UVa,Admit,2023,Fall,Master,美国,4.0,3.85
+924,MDS@Rice,Reject,2023,Fall,Master,美国,4.0,3.87
+925,MDS@UCI,Reject,2023,Fall,Master,美国,4.0,3.87
+926,MDSAI@Waterloo,Reject,2024,Fall,Master,美国,100,90.5
+927,MDSAI@Waterloo,Reject,2024,Fall,Master,美国,4.0,3.6
+928,MDSAI@Waterloo,Admit,2024,Fall,Master,美国,4.0,3.93
+929,MDSAI@Waterloo,Admit,2023,Fall,Master,美国,4.0,3.74
+930,MDSAI@Waterloo,Admit,2023,Fall,Master,美国,100,90.52
+931,MEng CE@TAMU,Admit,2024,Fall,Master,美国,4.0,3.21
+932,MEng CE@TAMU,Admit,2023,Fall,Master,美国,4.0,3.73
+933,MEng CE@TAMU,Admit,2023,Fall,Master,美国,4.3,3.41
+934,MEng S&T@McMaster,Admit,2023,Fall,Master,加拿大,100,87.6
+935,MEng@UCLA,Reject,2024,Fall,Master,美国,4.3,3.7
+936,MEng@UCLA,Reject,2024,Fall,Master,美国,4.0,3.82
+937,MEng@UCLA,Reject,2024,Fall,Master,美国,100,89.1
+938,MEng@UCLA,Admit,2023,Fall,Master,美国,4.0,3.98
+939,MEng@UCLA,Admit,2023,Fall,Master,美国,4.0,3.92
+940,MEng@UCLA,Admit,2023,Fall,Master,美国,100,88.0
+941,MEng@UCLA,Admit,2023,Fall,Master,美国,4.3,3.55
+942,MEng@UCLA,Admit,2023,Fall,Master,美国,5.0,4.55
+943,MEng@UCLA,Admit,2023,Fall,Master,美国,100,86.3
+944,MEng@UCLA,Admit,2023,Fall,Master,美国,100,92.3
+945,MEng@UCLA,Admit,2023,Fall,Master,美国,4.0,3.6
+946,MEng@UCLA,Reject,2023,Fall,Master,美国,4.0,3.33
+947,MEng@UCLA,Admit,2023,Fall,Master,美国,100,88.0
+948,MEng@UCLA,Admit,2023,Fall,Master,美国,4.3,3.97
+949,MEng@UCLA,Admit,2023,Fall,Master,美国,4.0,3.94
+950,MEng@UCLA,Admit,2023,Fall,Master,美国,4.0,3.85
+951,MEng@UCLA,Reject,2023,Fall,Master,美国,4.0,3.3
+952,MEng@UCLA,Reject,2023,Fall,Master,美国,100,92.91
+953,MEng@UCLA,Admit,2023,Fall,Master,美国,100,86.5
+954,MEng@UCLA,Reject,2023,Fall,Master,美国,4.0,3.74
+955,MEng@UCLA,Admit,2023,Fall,Master,美国,100,86.5
+956,MEng@UCLA,Reject,2022,Fall,Master,美国,100,90.11
+957,MEng@UCLA,Admit,2022,Fall,Master,美国,100,88.42
+958,MET@CMU,Withdraw,2023,Fall,Master,美国,4.0,3.3
+959,MIIS@CMU,Reject,2024,Fall,Master,美国,100,85.97
+961,MIIS@CMU,Reject,2023,Fall,Master,美国,100,88.42
+962,MIIS@CMU,Reject,2023,Fall,Master,美国,4.0,3.95
+963,MIIS@CMU,Reject,2023,Fall,Master,美国,100,89.61
+964,MIIS@CMU,Reject,2023,Fall,Master,美国,100,90.52
+965,MIIS@CMU,Reject,2023,Fall,Master,美国,4.0,4.0
+966,MIIS@CMU,Reject,2023,Fall,Master,美国,4.0,3.95
+967,MIIS@CMU,Admit,2023,Fall,Master,美国,100,91.63
+968,MIIS@CMU,Reject,2022,Fall,Master,美国,100,88.42
+969,MINT@UAlberta,Admit,2023,Fall,Master,加拿大,100,87.6
+970,MISM@CMU,Reject,2023,Fall,Master,美国,100,86.74
+971,MISM@CMU,Admit,2023,Fall,Master,美国,100,86.5
+972,MITS@CMU,Admit,2024,Fall,Master,美国,4.0,3.98
+973,MITS@CMU,Reject,2024,Fall,Master,美国,100,89.1
+974,MITS@CMU,Admit,2024,Fall,Master,美国,100,91.82
+975,MITS@CMU,Admit,2024,Fall,Master,美国,100,89.7
+976,MITS@CMU,Reject,2023,Fall,Master,美国,4.3,3.75
+977,MLT@CMU,Reject,2024,Fall,Master,美国,100,90.1
+978,MLT@CMU,Reject,2023,Fall,Master,美国,4.0,3.95
+979,MLT@CMU,Reject,2023,Fall,Master,美国,4.0,3.95
+980,MLT@CMU,Reject,2023,Fall,Master,美国,100,91.63
+981,MMath@Waterloo,Admit,2024,Fall,Master,美国,4.0,3.5
+982,MMath@Waterloo,Admit,2024,Fall,Master,美国,100,90.28
+983,MMath@Waterloo,Reject,2023,Fall,Master,美国,4.0,3.74
+984,MMath@Waterloo,Waitlist,2023,Fall,Master,美国,4.0,3.8
+985,MPCS@UChicago,Reject,2024,Fall,Master,美国,4.3,3.7
+986,MPCS@UChicago,Reject,2024,Fall,Master,美国,4.0,3.7
+987,MPCS@UChicago,Admit,2024,Fall,Master,美国,4.0,3.83
+988,MPCS@UChicago,Reject,2024,Fall,Master,美国,100,85.14
+989,MPCS@UChicago,Waitlist,2024,Fall,Master,美国,100,91.08
+990,MPCS@UChicago,Admit,2023,Fall,Master,美国,100,87.5
+991,MPCS@UChicago,Admit,2023,Fall,Master,美国,4.0,3.8
+992,MPCS@UChicago,Reject,2023,Fall,Master,美国,100,89.7
+993,MPCS@UChicago,Admit,2023,Fall,Master,美国,4.3,3.75
+994,MPCS@UChicago,Admit,2023,Fall,Master,美国,其他,27.89
+995,MPCS@UChicago,Reject,2023,Fall,Master,美国,4.0,3.3
+996,MPCS@UChicago,Admit,2023,Fall,Master,美国,4.0,3.9
+997,MPCS@UChicago,Admit,2023,Fall,Master,美国,4.0,3.97
+998,MPCS@UChicago,Reject,2023,Fall,Master,美国,4.0,3.92
+999,MPCS@UChicago,Reject,2023,Fall,Master,美国,100,86.74
+1000,MPhil-CSE@HKUST,Admit,2023,Fall,Master,中国香港,100,93.0
+1001,MSAI-EE@CMU,Admit,2023,Fall,Master,美国,4.0,3.84
+1002,MSAI-EE@CMU,Admit,2023,Fall,Master,美国,4.0,3.92
+1003,MSAI@BU,Admit,2023,Fall,Master,美国,4.0,3.48
+1004,MSAIE-IS@CMU,Reject,2023,Fall,Master,美国,4.0,3.37
+1005,MSAIE-IS@CMU,Reject,2023,Fall,Master,美国,4.0,3.92
+1006,MSAII@CMU,Reject,2024,Fall,Master,美国,4.0,3.87
+1007,MSAII@CMU,Reject,2024,Fall,Master,美国,4.0,3.83
+1008,MSAII@CMU,Reject,2024,Fall,Master,美国,5.0,4.62
+1009,MSAII@CMU,Reject,2024,Fall,Master,美国,100,91.11
+1010,MSAII@CMU,Admit,2024,Fall,Master,美国,4.0,3.83
+1011,MSAII@CMU,Reject,2023,Fall,Master,美国,100,91.63
+1012,MSAII@CMU,Reject,2023,Fall,Master,美国,100,90.52
+1013,MSAII@CMU,Reject,2023,Fall,Master,美国,4.0,3.9
+1014,MSAII@CMU,Reject,2022,Fall,Master,美国,100,88.42
+1015,MSc Computing (SE)@IC,Reject,2023,Fall,Master,英国,5.0,4.41
+1016,MSc CS@Edinburgh,Reject,2023,Fall,Master,英国,5.0,4.41
+1017,MSc CS@Edinburgh,Admit,2023,Fall,Master,英国,100,90.52
+1018,MSc CS@McGill,Reject,2023,Fall,Master,加拿大,4.0,3.68
+1019,MSc CS@McGill,Admit,2023,Fall,Master,加拿大,4.0,4.0
+1020,MSc CS@McGill,Reject,2022,Fall,Master,加拿大,100,88.42
+1021,MSc CS@McMaster,Admit,2023,Fall,Master,加拿大,其他,3.46
+1022,MSc IT@HKUST,Admit,2024,Fall,Master,中国香港,100,85.14
+1023,MSc IT@HKUST,Admit,2023,Fall,Master,中国香港,5.0,4.41
+1024,MSc IT@HKUST,Admit,2023,Fall,Master,中国香港,100,90.52
+1025,MSc SSE@UCL,Admit,2023,Fall,Master,英国,5.0,4.41
+1026,MScAc@UofT,Reject,2024,Fall,Master,加拿大,4.0,3.89
+1027,MScAc@UofT,Reject,2024,Fall,Master,加拿大,4.3,3.7
+1028,MScAc@UofT,Reject,2024,Fall,Master,加拿大,4.0,3.92
+1029,MScAc@UofT,Reject,2024,Fall,Master,加拿大,4.3,3.7
+1030,MScAc@UofT,默拒,2024,Fall,Master,加拿大,100,92.0
+1031,MScAc@UofT,Admit,2024,Fall,Master,加拿大,100,93.5
+1032,MScAc@UofT,Reject,2023,Fall,Master,加拿大,4.0,3.74
+1033,MScAc@UofT,Admit,2023,Fall,Master,加拿大,100,86.5
+1034,MScAc@UofT,Reject,2023,Fall,Master,加拿大,4.0,3.7
+1035,MScAc@UofT,Admit,2023,Fall,Master,加拿大,4.0,3.92
+1036,MScAc@UofT,Admit,2022,Fall,Master,加拿大,100,88.42
+1037,MSCE@Columbia,Admit,2023,Fall,Master,美国,4.3,3.97
+1038,MSCE@NYU Tandon,Admit,2024,Fall,Master,美国,4.0,2.9
+1039,MSCE@NYU Tandon,Admit,2024,Fall,Master,美国,4.0,3.82
+1040,MSCE@NYU Tandon,Admit,2024,Fall,Master,美国,4.0,3.7
+1041,MSCE@NYU Tandon,Admit,2024,Fall,Master,美国,4.0,3.29
+1042,MSCE@NYU Tandon,Admit,2023,Fall,Master,美国,4.0,3.48
+1044,MSCE@NYU Tandon,Admit,2023,Fall,Master,美国,4.0,3.37
+1045,MSCE@NYU Tandon,Admit,2023,Fall,Master,美国,其他,27.89
+1046,MSCE@NYU Tandon,Admit,2023,Fall,Master,美国,4.0,3.7
+1047,MSCS@BU,Admit,2024,Fall,Master,美国,5.0,4.33
+1048,MSCS@BU,Admit,2023,Fall,Master,美国,5.0,4.43
+1049,MSCS@CMU,Reject,2024,Fall,Master,美国,4.0,3.75
+1050,MSCS@CMU,Reject,2024,Fall,Master,美国,4.3,4.05
+1051,MSCS@CMU,Reject,2024,Fall,Master,美国,4.0,3.7
+1052,MSCS@CMU,Reject,2024,Fall,Master,美国,100,91.82
+1053,MSCS@CMU,Admit,2024,Fall,Master,美国,4.0,3.93
+1054,MSCS@CMU,Reject,2024,Fall,Master,美国,4.0,3.69
+1055,MSCS@CMU,Reject,2024,Fall,Master,美国,4.0,3.97
+1056,MSCS@CMU,Admit,2024,Fall,Master,美国,4.0,3.95
+1057,MSCS@CMU,Reject,2024,Fall,Master,美国,100,90.28
+1058,MSCS@CMU,Reject,2024,Fall,Master,美国,4.3,3.7
+1059,MSCS@CMU,Reject,2024,Fall,Master,美国,100,91.11
+1060,MSCS@CMU,Reject,2024,Fall,Master,美国,4.0,3.97
+1061,MSCS@CMU,Reject,2023,Fall,Master,美国,100,86.74
+1062,MSCS@CMU,Reject,2023,Fall,Master,美国,4.0,3.92
+1063,MSCS@CMU,Reject,2023,Fall,Master,美国,4.0,3.97
+1064,MSCS@CMU,Reject,2023,Fall,Master,美国,4.3,3.94
+1065,MSCS@CMU,Reject,2023,Fall,Master,美国,4.3,4.09
+1066,MSCS@CMU,Reject,2023,Fall,Master,美国,100,90.3
+1067,MSCS@CMU,Reject,2023,Fall,Master,美国,4.0,3.95
+1068,MSCS@CMU,Reject,2023,Fall,Master,美国,100,89.61
+1069,MSCS@CMU,Reject,2023,Fall,Master,美国,100,87.0
+1070,MSCS@CMU,Reject,2023,Fall,Master,美国,100,91.18
+1071,MSCS@CMU,Reject,2023,Fall,Master,美国,100,94.48
+1072,MSCS@CMU,Reject,2023,Fall,Master,美国,100,91.61
+1073,MSCS@CMU,Reject,2023,Fall,Master,美国,100,91.63
+1074,MSCS@CMU,Admit,2023,Fall,Master,美国,4.0,3.96
+1075,MSCS@CMU,Admit,2023,Fall,Master,美国,4.3,4.1
+1076,MSCS@CMU,Reject,2023,Fall,Master,美国,4.0,3.95
+1077,MSCS@CMU,Reject,2023,Fall,Master,美国,4.0,3.92
+1078,MSCS@CMU,Reject,2023,Fall,Master,美国,4.0,3.9
+1079,MSCS@CMU,Reject,2023,Fall,Master,美国,4.0,3.88
+1080,MSCS@Columbia,默拒,2024,Fall,Master,美国,4.0,3.75
+1081,MSCS@Columbia,Reject,2024,Fall,Master,美国,100,89.1
+1082,MSCS@Columbia,Reject,2024,Fall,Master,美国,4.0,3.82
+1083,MSCS@Columbia,Reject,2024,Fall,Master,美国,4.3,3.7
+1084,MSCS@Columbia,Reject,2024,Fall,Master,美国,100,91.11
+1085,MSCS@Columbia,Admit,2024,Fall,Master,美国,4.0,3.96
+1086,MSCS@Columbia,Admit,2024,Fall,Master,美国,4.0,3.83
+1087,MSCS@Columbia,Admit,2024,Fall,Master,美国,4.0,3.93
+1088,MSCS@Columbia,Admit,2024,Fall,Master,美国,4.0,3.88
+1089,MSCS@Columbia,Admit,2024,Fall,Master,美国,100,90.5
+1090,MSCS@Columbia,Admit,2024,Fall,Master,美国,100,91.82
+1091,MSCS@Columbia,Admit,2024,Fall,Master,美国,100,91.08
+1092,MSCS@Columbia,Admit,2024,Fall,Master,美国,4.3,3.7
+1093,MSCS@Columbia,Admit,2024,Fall,Master,美国,4.0,3.92
+1094,MSCS@Columbia,Admit,2024,Fall,Master,美国,4.0,3.97
+1095,MSCS@Columbia,Reject,2023,Fall,Master,美国,4.0,3.94
+1096,MSCS@Columbia,Waitlist,2023,Fall,Master,美国,100,94.48
+1097,MSCS@Columbia,Reject,2023,Fall,Master,美国,4.0,3.92
+1098,MSCS@Columbia,Reject,2023,Fall,Master,美国,4.0,3.8
+1099,MSCS@Columbia,Reject,2023,Fall,Master,美国,4.3,3.55
+1100,MSCS@Columbia,Reject,2023,Fall,Master,美国,4.0,3.84
+1101,MSCS@Columbia,Reject,2023,Fall,Master,美国,5.0,4.41
+1102,MSCS@Columbia,Reject,2023,Fall,Master,美国,4.0,3.92
+1103,MSCS@Columbia,默拒,2023,Fall,Master,美国,4.0,3.9
+1104,MSCS@Columbia,Admit,2023,Fall,Master,美国,4.0,3.92
+1105,MSCS@Columbia,Admit,2023,Fall,Master,美国,5.0,4.55
+1106,MSCS@Columbia,Admit,2023,Fall,Master,美国,4.3,3.94
+1107,MSCS@Columbia,Admit,2023,Fall,Master,美国,4.0,3.98
+1108,MSCS@Columbia,Admit,2023,Fall,Master,美国,4.3,3.96
+1109,MSCS@Columbia,Admit,2023,Fall,Master,美国,4.0,3.7
+1110,MSCS@Columbia,Admit,2023,Fall,Master,美国,4.3,4.09
+1111,MSCS@Columbia,Admit,2023,Fall,Master,美国,4.0,4.0
+1112,MSCS@Columbia,Admit,2023,Fall,Master,美国,4.0,3.96
+1113,MSCS@Columbia,Admit,2023,Fall,Master,美国,4.0,3.95
+1114,MSCS@Columbia,Admit,2023,Fall,Master,美国,4.0,3.97
+1115,MSCS@Columbia,Reject,2023,Fall,Master,美国,100,87.0
+1116,MSCS@Columbia,Reject,2022,Fall,Master,美国,100,90.11
+1117,MSCS@Columbia,Reject,2022,Fall,Master,美国,100,89.28
+1118,MSCS@Cornell,Reject,2023,Fall,Master,美国,4.0,4.0
+1119,MSCS@Dartmouth,Reject,2024,Fall,Master,美国,5.0,4.33
+1120,MSCS@Dartmouth,Admit,2024,Fall,Master,美国,100,87.0
+1121,MSCS@Dartmouth,Admit,2024,Fall,Master,美国,100,92.0
+1122,MSCS@Dartmouth,Waitlist,2023,Fall,Master,美国,100,86.74
+1123,MSCS@Dartmouth,Admit,2023,Fall,Master,美国,4.0,3.33
+1124,MSCS@Duke,Reject,2024,Fall,Master,美国,4.0,3.75
+1125,MSCS@Duke,Reject,2024,Fall,Master,美国,4.0,3.83
+1126,MSCS@Duke,Reject,2024,Fall,Master,美国,100,94.25
+1127,MSCS@Duke,Reject,2024,Fall,Master,美国,4.0,3.97
+1128,MSCS@Duke,Reject,2024,Fall,Master,美国,4.3,3.7
+1129,MSCS@Duke,Reject,2024,Fall,Master,美国,100,90.5
+1130,MSCS@Duke,Reject,2024,Fall,Master,美国,4.0,3.94
+1131,MSCS@Duke,Admit,2024,Fall,Master,美国,4.0,3.96
+1132,MSCS@Duke,Admit,2024,Fall,Master,美国,100,91.11
+1134,MSCS@Duke,Reject,2023,Fall,Master,美国,4.0,3.92
+1135,MSCS@Duke,Reject,2023,Fall,Master,美国,4.0,3.9
+1136,MSCS@Duke,Reject,2023,Fall,Master,美国,4.3,4.09
+1137,MSCS@Duke,Reject,2023,Fall,Master,美国,4.0,3.86
+1138,MSCS@Duke,Reject,2023,Fall,Master,美国,100,91.61
+1139,MSCS@Duke,Admit,2023,Fall,Master,美国,4.3,3.94
+1140,MSCS@Duke,Admit,2023,Fall,Master,美国,4.3,4.1
+1141,MSCS@Emory,Reject,2023,Fall,Master,美国,4.0,3.87
+1142,MSCS@Emory,Admit,2023,Fall,Master,美国,4.0,3.33
+1143,MSCS@EPFL,Admit,2024,Fall,Master,瑞士,100,90.5
+1144,MSCS@EPFL,Admit,2024,Fall,Master,瑞士,4.3,4.05
+1145,MSCS@EPFL,Admit,2024,Fall,Master,瑞士,100,90.28
+1146,MSCS@EPFL,Admit,2024,Fall,Master,瑞士,4.0,3.97
+1147,MSCS@EPFL,Reject,2024,Fall,Master,瑞士,100,90.6
+1148,MSCS@EPFL,Reject,2024,Fall,Master,瑞士,4.0,3.89
+1149,MSCS@EPFL,Reject,2023,Fall,Master,瑞士,4.0,3.92
+1150,MSCS@EPFL,Admit,2023,Fall,Master,瑞士,4.3,3.94
+1151,MSCS@EPFL,Reject,2023,Fall,Master,瑞士,4.0,3.86
+1152,MSCS@EPFL,Admit,2023,Fall,Master,瑞士,100,91.61
+1153,MSCS@EPFL,Reject,2023,Fall,Master,瑞士,4.0,3.91
+1154,MSCS@EPFL,Admit,2022,Fall,Master,瑞士,100,89.28
+1155,MSCS@ETH,Admit,2024,Fall,Master,瑞士,4.0,3.97
+1156,MSCS@ETH,Admit,2024,Fall,Master,瑞士,100,90.28
+1157,MSCS@ETH,Reject,2024,Fall,Master,瑞士,100,90.5
+1158,MSCS@ETH,Reject,2024,Fall,Master,瑞士,100,90.6
+1159,MSCS@ETH,Reject,2024,Fall,Master,瑞士,100,94.25
+1160,MSCS@ETH,Reject,2024,Fall,Master,瑞士,4.0,3.89
+1161,MSCS@ETH,Reject,2024,Fall,Master,瑞士,4.0,3.92
+1162,MSCS@ETH,Reject,2024,Fall,Master,瑞士,4.3,4.05
+1163,MSCS@ETH,Admit,2023,Fall,Master,瑞士,4.0,3.92
+1164,MSCS@ETH,Admit,2023,Fall,Master,瑞士,4.3,3.94
+1165,MSCS@ETH,Admit,2023,Fall,Master,瑞士,4.0,3.96
+1166,MSCS@ETH,Admit,2023,Fall,Master,瑞士,100,91.61
+1167,MSCS@GaTech,Admit,2024,Fall,Master,美国,4.0,3.75
+1168,MSCS@GaTech,Reject,2024,Fall,Master,美国,4.0,3.81
+1169,MSCS@GaTech,Reject,2024,Fall,Master,美国,4.0,3.83
+1170,MSCS@GaTech,Reject,2024,Fall,Master,美国,100,94.25
+1171,MSCS@GaTech,Reject,2024,Fall,Master,美国,100,90.1
+1172,MSCS@GaTech,Reject,2024,Fall,Master,美国,4.0,3.94
+1173,MSCS@GaTech,Reject,2024,Fall,Master,美国,100,90.5
+1174,MSCS@GaTech,Reject,2024,Fall,Master,美国,100,91.11
+1175,MSCS@GaTech,Reject,2024,Fall,Master,美国,100,92.0
+1176,MSCS@GaTech,Reject,2024,Fall,Master,美国,4.0,3.97
+1177,MSCS@GaTech,Reject,2024,Fall,Master,美国,4.0,3.96
+1178,MSCS@GaTech,Admit,2024,Fall,Master,美国,100,87.0
+1179,MSCS@GaTech,Reject,2023,Fall,Master,美国,100,86.5
+1180,MSCS@GaTech,Admit,2023,Fall,Master,美国,4.3,4.1
+1181,MSCS@GaTech,Admit,2023,Fall,Master,美国,4.0,3.95
+1182,MSCS@GaTech,Reject,2023,Fall,Master,美国,4.0,3.92
+1183,MSCS@GaTech,默拒,2023,Fall,Master,美国,4.0,3.9
+1184,MSCS@GaTech,Reject,2023,Fall,Master,美国,100,92.3
+1185,MSCS@GaTech,Admit,2023,Fall,Master,美国,4.0,3.92
+1186,MSCS@GaTech,Reject,2023,Fall,Master,美国,4.0,3.83
+1187,MSCS@GaTech,Reject,2023,Fall,Master,美国,100,94.48
+1188,MSCS@GaTech,Reject,2023,Fall,Master,美国,4.0,3.95
+1189,MSCS@GaTech,Reject,2023,Fall,Master,美国,100,90.3
+1190,MSCS@GaTech,Admit,2023,Fall,Master,美国,4.0,3.5
+1191,MSCS@GaTech,Admit,2023,Fall,Master,美国,4.3,3.94
+1192,MSCS@GaTech,Admit,2023,Fall,Master,美国,4.0,3.86
+1193,MSCS@GaTech,Admit,2023,Fall,Master,美国,4.0,3.7
+1194,MSCS@GaTech,Admit,2023,Fall,Master,美国,100,91.63
+1195,MSCS@GaTech,Admit,2023,Fall,Master,美国,4.0,3.75
+1196,MSCS@GaTech,Admit,2023,Fall,Master,美国,100,91.61
+1197,MSCS@GaTech,Reject,2023,Fall,Master,美国,100,87.5
+1198,MSCS@GaTech,Reject,2022,Fall,Master,美国,100,88.42
+1199,MSCS@GWU,Admit,2023,Fall,Master,美国,4.0,3.37
+1200,MSCS@GWU,Admit,2023,Fall,Master,美国,4.0,3.68
+1201,MSCS@Iowa State University,Admit,2023,Fall,Master,美国,4.0,3.68
+1202,MSCS@NWU,Reject,2024,Fall,Master,美国,100,90.1
+1203,MSCS@NWU,Reject,2024,Fall,Master,美国,100,94.25
+1204,MSCS@NWU,Admit,2024,Fall,Master,美国,4.0,3.94
+1205,MSCS@NWU,Reject,2024,Fall,Master,美国,4.0,3.83
+1206,MSCS@NWU,Reject,2024,Fall,Master,美国,100,91.08
+1207,MSCS@NWU,Admit,2024,Fall,Master,美国,4.0,3.92
+1208,MSCS@NWU,Admit,2024,Fall,Master,美国,4.0,3.81
+1209,MSCS@NWU,Admit,2024,Fall,Master,美国,4.0,3.91
+1210,MSCS@NWU,Admit,2024,Fall,Master,美国,4.0,3.92
+1211,MSCS@NWU,Admit,2024,Fall,Master,美国,4.0,3.83
+1212,MSCS@NWU,Reject,2024,Fall,Master,美国,100,85.14
+1213,MSCS@NWU,Reject,2024,Fall,Master,美国,4.3,3.7
+1214,MSCS@NWU,Admit,2024,Fall,Master,美国,4.0,3.93
+1215,MSCS@NWU,Admit,2024,Fall,Master,美国,4.0,3.99
+1216,MSCS@NWU,Reject,2024,Fall,Master,美国,4.0,3.77
+1217,MSCS@NWU,Reject,2023,Fall,Master,美国,4.0,3.48
+1218,MSCS@NWU,Reject,2023,Fall,Master,美国,100,87.5
+1219,MSCS@NWU,Admit,2023,Fall,Master,美国,4.0,3.7
+1220,MSCS@NWU,Reject,2023,Fall,Master,美国,100,86.74
+1221,MSCS@NWU,Reject,2023,Fall,Master,美国,100,88.0
+1222,MSCS@NWU,Reject,2023,Fall,Master,美国,4.0,3.98
+1223,MSCS@NWU,Reject,2023,Fall,Master,美国,4.0,3.75
+1224,MSCS@NWU,Reject,2023,Fall,Master,美国,5.0,4.41
+1225,MSCS@NWU,Admit,2023,Fall,Master,美国,4.0,3.9
+1226,MSCS@NWU,Admit,2023,Fall,Master,美国,4.0,3.94
+1227,MSCS@NWU,Reject,2023,Fall,Master,美国,4.0,3.66
+1228,MSCS@NWU,Reject,2023,Fall,Master,美国,4.0,3.8
+1229,MSCS@NWU,Reject,2023,Fall,Master,美国,4.0,3.3
+1230,MSCS@NWU,Reject,2023,Fall,Master,美国,4.3,4.09
+1231,MSCS@NWU,Reject,2023,Fall,Master,美国,4.0,3.86
+1232,MSCS@NWU,Reject,2023,Fall,Master,美国,英制100,71.0
+1233,MSCS@NWU,Reject,2023,Fall,Master,美国,4.3,3.97
+1234,MSCS@NWU,Reject,2023,Fall,Master,美国,4.0,3.48
+1235,MSCS@NWU,Reject,2023,Fall,Master,美国,100,92.91
+1236,MSCS@NWU,Admit,2023,Fall,Master,美国,4.0,3.8
+1237,MSCS@NWU,Admit,2023,Fall,Master,美国,4.0,3.9
+1238,MSCS@NWU,Reject,2023,Fall,Master,美国,100,89.3
+1239,MSCS@NWU,Reject,2023,Fall,Master,美国,4.0,3.7
+1240,MSCS@NYU Courant,Admit,2024,Fall,Master,美国,4.0,3.83
+1241,MSCS@NYU Courant,Admit,2024,Fall,Master,美国,100,90.1
+1242,MSCS@NYU Courant,Reject,2023,Fall,Master,美国,4.3,3.55
+1243,MSCS@NYU Courant,Reject,2023,Fall,Master,美国,5.0,4.41
+1244,MSCS@NYU Courant,Admit,2023,Fall,Master,美国,4.0,3.92
+1245,MSCS@NYU Courant,Admit,2023,Fall,Master,美国,100,88.8
+1246,MSCS@NYU Courant,Admit,2023,Fall,Master,美国,4.0,3.84
+1247,MSCS@NYU Courant,Admit,2023,Fall,Master,美国,100,87.0
+1248,MSCS@NYU Courant,Reject,2022,Fall,Master,美国,100,90.11
+1249,MSCS@NYU Courant,Reject,2022,Fall,Master,美国,100,89.28
+1250,MSCS@NYU Tandon,Admit,2024,Fall,Master,美国,100,91.7
+1251,MSCS@NYU Tandon,Reject,2024,Fall,Master,美国,4.0,3.82
+1252,MSCS@NYU Tandon,Admit,2024,Fall,Master,美国,100,85.14
+1253,MSCS@NYU Tandon,Reject,2024,Fall,Master,美国,4.0,3.89
+1254,MSCS@NYU Tandon,Reject,2024,Fall,Master,美国,4.0,3.81
+1255,MSCS@NYU Tandon,Admit,2024,Fall,Master,美国,4.0,3.93
+1256,MSCS@NYU Tandon,Reject,2024,Fall,Master,美国,100,89.1
+1257,MSCS@NYU Tandon,Admit,2024,Fall,Master,美国,5.0,4.33
+1258,MSCS@NYU Tandon,Admit,2024,Fall,Master,美国,100,90.6
+1259,MSCS@NYU Tandon,Admit,2024,Fall,Master,美国,其他,3.78
+1260,MSCS@NYU Tandon,Admit,2024,Fall,Master,美国,100,91.11
+1261,MSCS@NYU Tandon,Reject,2024,Fall,Master,美国,4.0,3.46
+1262,MSCS@NYU Tandon,Reject,2024,Fall,Master,美国,100,85.97
+1263,MSCS@NYU Tandon,Reject,2024,Fall,Master,美国,4.0,3.5
+1264,MSCS@NYU Tandon,Admit,2023,Fall,Master,美国,4.3,3.75
+1265,MSCS@NYU Tandon,Admit,2023,Fall,Master,美国,4.0,3.85
+1266,MSCS@NYU Tandon,Reject,2023,Fall,Master,美国,100,86.3
+1267,MSCS@NYU Tandon,Admit,2023,Fall,Master,美国,100,84.0
+1268,MSCS@NYU Tandon,Admit,2023,Fall,Master,美国,4.0,3.33
+1269,MSCS@NYU Tandon,Reject,2023,Fall,Master,美国,4.0,3.69
+1270,MSCS@NYU Tandon,Admit,2023,Fall,Master,美国,100,86.99
+1271,MSCS@NYU Tandon,Admit,2023,Fall,Master,美国,100,90.52
+1272,MSCS@NYU Tandon,Reject,2023,Fall,Master,美国,4.0,3.86
+1273,MSCS@NYU Tandon,Admit,2023,Fall,Master,美国,100,88.8
+1274,MSCS@NYU Tandon,Reject,2023,Fall,Master,美国,4.0,3.3
+1275,MSCS@NYU Tandon,Admit,2023,Fall,Master,美国,4.0,3.66
+1276,MSCS@NYU Tandon,Admit,2023,Fall,Master,美国,100,89.7
+1277,MSCS@NYU Tandon,Reject,2023,Fall,Master,美国,4.0,3.48
+1278,MSCS@NYU Tandon,Admit,2023,Fall,Master,美国,100,90.9
+1279,MSCS@NYU Tandon,Admit,2023,Fall,Master,美国,5.0,4.41
+1280,MSCS@NYU Tandon,Admit,2023,Fall,Master,美国,5.0,4.55
+1281,MSCS@NYU Tandon,Admit,2022,Fall,Master,美国,100,88.42
+1282,MSCS@Pitt,Admit,2023,Fall,Master,美国,4.0,3.48
+1283,MSCS@Purdue,Reject,2024,Fall,Master,美国,4.3,3.7
+1284,MSCS@Purdue,Reject,2023,Fall,Master,美国,4.0,3.48
+1285,MSCS@Purdue,Reject,2023,Fall,Master,美国,4.0,3.85
+1286,MSCS@Rutgers,Reject,2023,Fall,Master,美国,4.0,3.68
+1287,MSCS@Rutgers,Admit,2023,Fall,Master,美国,4.0,3.9
+1288,MSCS@SCU,Admit,2023,Fall,Master,美国,4.0,3.37
+1289,MSCS@SCU,Reject,2023,Fall,Master,美国,4.0,3.7
+1290,MSCS@SCU,Admit,2023,Fall,Master,美国,4.0,3.7
+1291,MSCS@SCU,Admit,2023,Fall,Master,美国,4.0,3.66
+1292,MSCS@SCU,Admit,2023,Fall,Master,美国,4.0,3.48
+1293,MSCS@SCU,Admit,2023,Fall,Master,美国,4.3,3.83
+1294,MSCS@SCU,Admit,2023,Fall,Master,美国,4.3,3.55
+1295,MSCS@SMU,Admit,2023,Fall,Master,美国,5.0,4.43
+1296,MSCS@Stanford,Reject,2024,Fall,Master,美国,4.0,3.75
+1297,MSCS@Stanford,Reject,2024,Fall,Master,美国,4.3,4.05
+1298,MSCS@Stanford,Reject,2024,Fall,Master,美国,4.0,3.7
+1299,MSCS@Stanford,Reject,2024,Fall,Master,美国,4.3,3.7
+1300,MSCS@Stanford,Reject,2024,Fall,Master,美国,4.0,3.97
+1301,MSCS@Stanford,Reject,2024,Fall,Master,美国,4.0,3.89
+1302,MSCS@Stanford,Reject,2024,Fall,Master,美国,4.0,3.95
+1303,MSCS@Stanford,Admit,2024,Fall,Master,美国,4.0,3.93
+1304,MSCS@Stanford,Reject,2024,Fall,Master,美国,4.0,3.93
+1305,MSCS@Stanford,Reject,2024,Fall,Master,美国,4.0,3.97
+1306,MSCS@Stanford,Reject,2023,Fall,Master,美国,100,94.48
+1307,MSCS@Stanford,Reject,2023,Fall,Master,美国,4.3,4.09
+1308,MSCS@Stanford,Reject,2023,Fall,Master,美国,4.0,3.92
+1309,MSCS@Stanford,Admit,2023,Fall,Master,美国,4.0,3.96
+1310,MSCS@Stanford,Reject,2023,Fall,Master,美国,4.0,3.94
+1311,MSCS@Stanford,Reject,2023,Fall,Master,美国,100,91.61
+1312,MSCS@Stanford,Admit,2023,Fall,Master,美国,4.0,4.0
+1313,MSCS@Stanford,Reject,2023,Fall,Master,美国,4.3,4.1
+1314,MSCS@Stanford,Reject,2023,Fall,Master,美国,4.0,3.92
+1315,MSCS@Stanford,Admit,2023,Fall,Master,美国,4.0,3.95
+1316,MSCS@Stanford,Reject,2023,Fall,Master,美国,4.0,3.78
+1317,MSCS@TAMU,Admit,2023,Fall,Master,美国,4.0,3.87
+1318,MSCS@TAMU,Admit,2023,Fall,Master,美国,4.0,3.82
+1319,MSCS@TU Delft,Admit,2024,Fall,Master,荷兰,4.0,3.81
+1320,MSCS@TU Delft,Admit,2023,Fall,Master,荷兰,100,90.52
+1321,MSCS@TU Delft,Admit,2023,Fall,Master,荷兰,4.0,3.92
+1322,MSCS@Tufts,Reject,2023,Fall,Master,美国,4.0,3.33
+1323,MSCS@Tufts,Reject,2023,Fall,Master,美国,5.0,4.55
+1324,MSCS@Tufts,Reject,2023,Fall,Master,美国,4.0,3.37
+1325,MSCS@UBC,默拒,2024,Fall,Master,加拿大,100,92.0
+1326,MSCS@UBC,Admit,2023,Fall,Master,加拿大,100,93.0
+1327,MSCS@UCD,Reject,2023,Fall,Master,美国,5.0,4.41
+1328,MSCS@UCD,Admit,2023,Fall,Master,美国,100,88.8
+1329,MSCS@UCD,Reject,2022,Fall,Master,美国,100,90.11
+1330,MSCS@UCI,Admit,2023,Fall,Master,美国,4.0,3.9
+1331,MSCS@UCLA,Reject,2024,Fall,Master,美国,4.3,3.7
+1332,MSCS@UCLA,Reject,2024,Fall,Master,美国,4.0,3.83
+1333,MSCS@UCLA,Reject,2024,Fall,Master,美国,100,91.11
+1334,MSCS@UCLA,默拒,2024,Fall,Master,美国,100,91.82
+1335,MSCS@UCLA,Admit,2024,Fall,Master,美国,100,91.08
+1336,MSCS@UCLA,Reject,2023,Fall,Master,美国,4.3,4.1
+1337,MSCS@UCLA,Reject,2023,Fall,Master,美国,100,94.48
+1338,MSCS@UCLA,Reject,2023,Fall,Master,美国,4.0,3.95
+1339,MSCS@UCLA,Reject,2023,Fall,Master,美国,4.0,3.9
+1340,MSCS@UCLA,Reject,2023,Fall,Master,美国,4.3,4.09
+1341,MSCS@UCLA,Reject,2023,Fall,Master,美国,4.0,3.92
+1342,MSCS@UCLA,Reject,2023,Fall,Master,美国,100,90.3
+1343,MSCS@UCLA,Admit,2023,Fall,Master,美国,4.0,3.96
+1344,MSCS@UCLA,Admit,2023,Fall,Master,美国,4.0,3.99
+1345,MSCS@UCLA,Reject,2022,Fall,Master,美国,100,89.28
+1346,MSCS@UCR,Admit,2024,Fall,Master,美国,4.0,3.5
+1347,MSCS@UCR,Admit,2023,Fall,Master,美国,4.3,3.41
+1348,MSCS@UCSB,Reject,2024,Fall,Master,美国,4.0,3.89
+1349,MSCS@UCSB,Reject,2024,Fall,Master,美国,4.0,3.83
+1350,MSCS@UCSB,默拒,2024,Fall,Master,美国,100,90.1
+1351,MSCS@UCSB,默拒,2024,Fall,Master,美国,4.0,3.82
+1352,MSCS@UCSB,Admit,2024,Fall,Master,美国,100,91.08
+1353,MSCS@UCSB,Reject,2023,Fall,Master,美国,5.0,4.43
+1354,MSCS@UCSB,Admit,2023,Fall,Master,美国,4.0,3.9
+1355,MSCS@UCSB,Admit,2023,Fall,Master,美国,4.0,3.87
+1356,MSCS@UCSB,Reject,2022,Fall,Master,美国,100,90.11
+1357,MSCS@UFL,Admit,2024,Fall,Master,美国,100,85.14
+1358,MSCS@UFL,Admit,2023,Fall,Master,美国,4.0,3.69
+1359,MSCS@UFL,Admit,2023,Fall,Master,美国,4.0,3.87
+1360,MSCS@UIUC,Reject,2024,Fall,Master,美国,4.0,3.95
+1361,MSCS@UIUC,Reject,2024,Fall,Master,美国,4.3,4.05
+1362,MSCS@UIUC,Reject,2024,Fall,Master,美国,100,90.28
+1363,MSCS@UIUC,Reject,2024,Fall,Master,美国,4.0,3.89
+1364,MSCS@UIUC,Admit,2024,Fall,Master,美国,4.0,3.95
+1365,MSCS@UIUC,Admit,2023,Fall,Master,美国,4.0,3.94
+1366,MSCS@UIUC,Reject,2023,Fall,Master,美国,4.3,4.09
+1367,MSCS@UIUC,Reject,2023,Fall,Master,美国,4.0,3.96
+1368,MSCS@UIUC,Reject,2023,Fall,Master,美国,100,91.61
+1369,MSCS@UIUC,Reject,2023,Fall,Master,美国,100,88.0
+1370,MSCS@UIUC,Reject,2023,Fall,Master,美国,4.0,3.8
+1371,MSCS@UIUC,Reject,2023,Fall,Master,美国,4.0,4.0
+1372,MSCS@UIUC,Reject,2023,Fall,Master,美国,4.0,3.9
+1373,MSCS@UIUC,Admit,2023,Fall,Master,美国,4.0,3.97
+1374,MSCS@UIUC,Admit,2023,Fall,Master,美国,4.0,3.76
+1375,MSCS@UIUC,Admit,2023,Fall,Master,美国,4.0,3.86
+1376,MSCS@UIUC,Reject,2023,Fall,Master,美国,100,87.0
+1377,MSCS@UMass,Reject,2024,Fall,Master,美国,100,90.1
+1378,MSCS@UMass,Reject,2023,Fall,Master,美国,4.0,3.74
+1379,MSCS@UMass,Admit,2023,Fall,Master,美国,4.0,3.5
+1380,MSCS@UNC,Admit,2024,Fall,Master,美国,100,87.0
+1381,MSCS@UNC,Reject,2023,Fall,Master,美国,4.0,3.87
+1382,MSCS@UT-Austin,Reject,2024,Fall,Master,美国,4.0,3.83
+1383,MSCS@UT-Austin,Reject,2024,Fall,Master,美国,100,94.25
+1384,MSCS@UT-Austin,Reject,2024,Fall,Master,美国,100,92.0
+1385,MSCS@UT-Austin,Reject,2024,Fall,Master,美国,100,90.28
+1386,MSCS@UT-Austin,Reject,2024,Fall,Master,美国,4.0,3.89
+1387,MSCS@UT-Austin,Reject,2024,Fall,Master,美国,100,91.11
+1388,MSCS@UT-Austin,Reject,2024,Fall,Master,美国,100,91.08
+1389,MSCS@UT-Austin,Admit,2024,Fall,Master,美国,4.3,4.05
+1390,MSCS@UT-Austin,Admit,2024,Fall,Master,美国,4.0,3.7
+1391,MSCS@UT-Austin,Admit,2024,Fall,Master,美国,4.0,3.97
+1392,MSCS@UT-Austin,Reject,2023,Fall,Master,美国,4.3,4.1
+1393,MSCS@UT-Austin,Reject,2023,Fall,Master,美国,100,91.61
+1394,MSCS@UT-Austin,Reject,2023,Fall,Master,美国,4.0,3.83
+1395,MSCS@UT-Austin,Reject,2023,Fall,Master,美国,5.0,4.41
+1396,MSCS@UT-Austin,Reject,2023,Fall,Master,美国,4.0,3.92
+1397,MSCS@UT-Austin,Reject,2023,Fall,Master,美国,4.0,3.9
+1398,MSCS@UT-Austin,Reject,2023,Fall,Master,美国,4.0,3.5
+1399,MSCS@UT-Austin,Admit,2023,Fall,Master,美国,100,94.48
+1400,MSCS@UT-Austin,Admit,2023,Fall,Master,美国,4.0,3.95
+1401,MSCS@Utah,Admit,2023,Fall,Master,美国,100,84.03
+1402,MSCS@Utah,Admit,2023,Fall,Master,美国,100,88.8
+1403,MSCS@UVa,Admit,2024,Fall,Master,美国,100,87.0
+1404,MSCS@Wisc,Reject,2024,Fall,Master,美国,4.3,4.05
+1405,MSCS@Wisc,Reject,2024,Fall,Master,美国,100,92.0
+1406,MSCS@Wisc,Reject,2024,Fall,Master,美国,100,90.28
+1407,MSCS@Wisc,Reject,2024,Fall,Master,美国,100,94.25
+1408,MSCS@Wisc,Admit,2024,Fall,Master,美国,4.0,3.91
+1409,MSCS@Wisc,Admit,2024,Fall,Master,美国,4.0,3.93
+1410,MSCS@Wisc,Reject,2023,Fall,Master,美国,100,86.74
+1411,MSCS@Wisc,Reject,2023,Fall,Master,美国,4.0,3.92
+1412,MSCS@Wisc,Reject,2023,Fall,Master,美国,100,86.3
+1413,MSCS@Wisc,Reject,2023,Fall,Master,美国,4.0,3.86
+1414,MSCS@Wisc,Reject,2023,Fall,Master,美国,4.0,3.8
+1416,MSCS@Wisc,Admit,2023,Fall,Master,美国,4.0,3.8
+1417,MSCS@Wisc,Admit,2023,Fall,Master,美国,100,94.48
+1418,MSCS@WUSTL,Admit,2024,Fall,Master,美国,4.3,3.7
+1419,MSCS@WUSTL,Reject,2023,Fall,Master,美国,100,86.74
+1420,MSCS@WUSTL,Reject,2023,Fall,Master,美国,4.0,3.33
+1421,MSCS@WUSTL,Admit,2023,Fall,Master,美国,4.0,3.48
+1422,MSCS@WUSTL,Admit,2023,Fall,Master,美国,4.3,3.75
+1423,MSCSE@OSU,Reject,2024,Fall,Master,美国,100,85.14
+1424,MSCSE@OSU,Admit,2024,Fall,Master,美国,4.0,3.5
+1425,MSCSE@OSU,Admit,2023,Fall,Master,美国,4.0,3.68
+1426,MSCSE@OSU,Admit,2023,Fall,Master,美国,100,88.8
+1427,MSCSE@PSU,Admit,2023,Fall,Master,美国,4.0,3.3
+1428,MSCSE@SBU,Reject,2023,Fall,Master,美国,4.3,3.41
+1429,MSCSE@UCSC,Admit,2024,Fall,Master,美国,4.0,3.21
+1430,MSCSE@UCSC,Reject,2023,Fall,Master,美国,4.0,3.74
+1431,MSCSE@UMich,Reject,2024,Fall,Master,美国,4.0,3.83
+1432,MSCSE@UMich,Reject,2024,Fall,Master,美国,100,85.14
+1433,MSCSE@UMich,Reject,2024,Fall,Master,美国,100,92.0
+1434,MSCSE@UMich,Reject,2024,Fall,Master,美国,100,91.11
+1435,MSCSE@UMich,Reject,2024,Fall,Master,美国,4.0,3.89
+1436,MSCSE@UMich,Reject,2024,Fall,Master,美国,4.3,3.7
+1437,MSCSE@UMich,Reject,2024,Fall,Master,美国,100,91.08
+1438,MSCSE@UMich,Admit,2024,Fall,Master,美国,4.0,3.97
+1439,MSCSE@UMich,Admit,2023,Fall,Master,美国,4.3,4.1
+1440,MSCSE@UMich,Reject,2023,Fall,Master,美国,100,94.48
+1441,MSCSE@UMich,Reject,2023,Fall,Master,美国,100,91.61
+1442,MSCSE@UMich,Reject,2023,Fall,Master,美国,4.0,3.5
+1443,MSCSE@UMich,Reject,2023,Fall,Master,美国,4.0,3.75
+1444,MSCSE@UMich,Reject,2023,Fall,Master,美国,4.0,3.85
+1445,MSCSE@UMich,Reject,2023,Fall,Master,美国,4.3,4.09
+1446,MSCSE@UMich,Reject,2023,Fall,Master,美国,100,90.3
+1447,MSCSE@UMich,Reject,2023,Fall,Master,美国,5.0,4.41
+1448,MSCSE@UMich,Admit,2023,Fall,Master,美国,4.0,3.94
+1449,MSCSE@UMich,Admit,2023,Fall,Master,美国,4.0,4.0
+1450,MSCSE@UMich,Admit,2023,Fall,Master,美国,4.0,3.86
+1451,MSCSE@UMich,Reject,2022,Fall,Master,美国,100,88.42
+1452,MSCSS@UCSD,Admit,2023,Fall,Master,美国,4.0,3.87
+1453,MSCV@CMU,Reject,2024,Fall,Master,美国,4.0,3.77
+1454,MSCV@CMU,Reject,2024,Fall,Master,美国,4.0,3.69
+1455,MSCV@CMU,Reject,2024,Fall,Master,美国,100,92.0
+1456,MSCV@CMU,Admit,2024,Fall,Master,美国,4.3,4.05
+1457,MSCV@CMU,Admit,2024,Fall,Master,美国,4.0,3.97
+1458,MSCV@CMU,Reject,2023,Fall,Master,美国,4.0,3.92
+1459,MSCV@CMU,Reject,2023,Fall,Master,美国,100,89.3
+1460,MSCV@CMU,Waitlist,2023,Fall,Master,美国,100,93.94
+1461,MSCV@CMU,Admit,2023,Fall,Master,美国,4.0,3.88
+1462,MSCV@CMU,Admit,2023,Fall,Master,美国,4.0,3.92
+1463,MSCV@CMU,Admit,2023,Fall,Master,美国,4.0,4.0
+1464,MSDS@ETH,Admit,2023,Fall,Master,瑞士,4.0,3.92
+1465,MSE-SS@CMU,Admit,2024,Fall,Master,美国,100,91.82
+1466,MSE-SS@CMU,Reject,2024,Fall,Master,美国,100,90.5
+1467,MSE-SS@CMU,Reject,2024,Fall,Master,美国,5.0,4.33
+1468,MSE-SS@CMU,Reject,2023,Fall,Master,美国,100,86.5
+1469,MSE-SS@CMU,Reject,2023,Fall,Master,美国,100,88.0
+1470,MSE-SS@CMU,Admit,2023,Fall,Master,美国,4.0,3.3
+1471,MSE-SS@CMU,Waitlist,2023,Fall,Master,美国,4.0,3.75
+1472,MSECE@UIUC,Admit,2024,Fall,Master,美国,4.0,3.95
+1473,MSECE@UMich,Admit,2024,Fall,Master,美国,4.0,3.75
+1474,MSECE@UMich,Admit,2024,Fall,Master,美国,4.0,3.85
+1475,MSECE@UMich,Admit,2024,Fall,Master,美国,4.0,3.7
+1476,MSECE@UMich,Reject,2023,Fall,Master,美国,100,89.3
+1477,MSECE@UMich,Admit,2023,Fall,Master,美国,4.0,3.96
+1478,MSECE@UMich,Admit,2023,Fall,Master,美国,4.3,3.75
+1479,MSECS@JHU,Reject,2024,Fall,Master,美国,4.3,3.7
+1480,MSECS@JHU,Admit,2024,Fall,Master,美国,4.0,3.83
+1481,MSECS@JHU,Reject,2024,Fall,Master,美国,100,85.14
+1482,MSECS@JHU,Admit,2024,Fall,Master,美国,4.3,4.05
+1484,MSECS@JHU,Reject,2024,Fall,Master,美国,5.0,4.33
+1485,MSECS@JHU,Admit,2024,Fall,Master,美国,100,93.5
+1486,MSECS@JHU,Admit,2024,Fall,Master,美国,4.0,3.82
+1487,MSECS@JHU,Admit,2024,Fall,Master,美国,100,90.1
+1488,MSECS@JHU,Reject,2024,Fall,Master,美国,4.0,3.93
+1489,MSECS@JHU,Reject,2023,Fall,Master,美国,100,87.5
+1490,MSECS@JHU,Admit,2023,Fall,Master,美国,4.3,4.09
+1491,MSECS@JHU,Admit,2023,Fall,Master,美国,4.0,3.97
+1493,MSECS@JHU,Admit,2023,Fall,Master,美国,4.0,3.5
+1494,MSECS@Princeton,Reject,2024,Fall,Master,美国,4.0,3.95
+1495,MSECS@Princeton,Reject,2023,Fall,Master,美国,4.0,3.96
+1496,MSECS@Princeton,Reject,2023,Fall,Master,美国,4.0,3.97
+1497,MSECS@Princeton,Admit,2023,Fall,Master,美国,4.0,4.0
+1498,MSEE@UW,Reject,2024,Fall,Master,美国,4.0,3.96
+1499,MSEE@UW,Reject,2024,Fall,Master,美国,4.0,3.21
+1500,MSEECE@JHU,Admit,2024,Fall,Master,美国,4.0,3.77
+1501,MSEECE@JHU,Admit,2023,Fall,Master,美国,4.3,3.75
+1502,MSI@UMich,Reject,2023,Fall,Master,美国,4.0,3.87
+1503,MSIM@UIUC,Admit,2023,Fall,Master,美国,4.0,3.74
+1504,MSIM@UIUC,Admit,2023,Fall,Master,美国,5.0,4.55
+1505,MSIM@UIUC,Admit,2023,Fall,Master,美国,100,86.5
+1506,MSIM@UIUC,Admit,2023,Fall,Master,美国,4.0,3.87
+1507,MSIM@UW,Reject,2023,Fall,Master,美国,4.0,3.3
+1508,MSIN@CMU,Reject,2024,Fall,Master,美国,4.0,3.83
+1509,MSIN@CMU,Reject,2024,Fall,Master,美国,100,91.82
+1510,MSIN@CMU,Reject,2024,Fall,Master,美国,4.3,3.7
+1511,MSIN@CMU,Admit,2024,Fall,Master,美国,100,89.1
+1512,MSIN@CMU,Admit,2024,Fall,Master,美国,4.0,3.96
+1513,MSIN@CMU,Waitlist,2024,Fall,Master,美国,4.0,3.92
+1514,MSIN@CMU,Waitlist,2024,Fall,Master,美国,100,90.5
+1515,MSIN@CMU,Admit,2024,Fall,Master,美国,100,90.7
+1516,MSIN@CMU,Admit,2024,Fall,Master,美国,100,94.25
+1517,MSIN@CMU,Admit,2024,Fall,Master,美国,4.0,3.94
+1518,MSIN@CMU,Admit,2024,Fall,Master,美国,100,91.11
+1519,MSIN@CMU,Admit,2024,Fall,Master,美国,4.0,3.97
+1520,MSIN@CMU,Reject,2023,Fall,Master,美国,4.0,3.92
+1521,MSIN@CMU,Admit,2023,Fall,Master,美国,4.3,3.94
+1522,MSIN@CMU,Admit,2023,Fall,Master,美国,4.0,4.0
+1523,MSIN@CMU,Admit,2023,Fall,Master,美国,4.3,4.1
+1524,MSIN@CMU,Admit,2023,Fall,Master,美国,100,92.3
+1525,MSIN@CMU,Admit,2023,Fall,Master,美国,4.0,3.96
+1526,MSIN@CMU,Waitlist,2023,Fall,Master,美国,4.0,3.83
+1527,MSIN@CMU,Waitlist,2023,Fall,Master,美国,4.0,3.98
+1528,MSIN@CMU,Admit,2023,Fall,Master,美国,4.0,3.96
+1529,MSIN@CMU,Admit,2023,Fall,Master,美国,100,87.0
+1530,MSIN@CMU,Admit,2023,Fall,Master,美国,4.0,3.97
+1531,MSIN@CMU,Reject,2023,Fall,Master,美国,100,89.3
+1532,MSIN@CMU,Waitlist,2023,Fall,Master,美国,100,89.61
+1533,MSIN@CMU,Admit,2023,Fall,Master,美国,100,94.48
+1534,MSIN@CMU,Reject,2023,Fall,Master,美国,4.0,3.79
+1535,MSIN@CMU,Reject,2023,Fall,Master,美国,100,91.63
+1536,MSIN@CMU,Reject,2023,Fall,Master,美国,4.0,3.7
+1537,MSIN@CMU,Admit,2023,Fall,Master,美国,4.0,3.56
+1538,MSIN@CMU,Admit,2023,Fall,Master,美国,4.0,3.98
+1539,MSIN@CMU,Admit,2023,Fall,Master,美国,4.3,3.7
+1540,MSIN@CMU,Reject,2022,Fall,Master,美国,100,90.11
+1541,MSIN@CMU,Reject,2022,Fall,Master,美国,100,88.42
+1542,MSIN@CMU,Reject,2022,Fall,Master,美国,100,89.28
+1543,MSIS@CMU,Reject,2023,Fall,Master,美国,100,86.74
+1544,MSIS@CMU,Admit,2023,Fall,Master,美国,4.0,3.8
+1545,MSIS@UNC,Reject,2023,Fall,Master,美国,英制100,71.0
+1546,MSIS@UNC,Reject,2023,Fall,Master,美国,4.0,3.85
+1547,MSIS@UT-Austin,Reject,2023,Fall,Master,美国,4.0,3.87
+1548,MSIT-IS@CMU,Admit,2023,Fall,Master,美国,5.0,4.55
+1549,MSIT-IS@CMU,Admit,2023,Fall,Master,美国,100,91.67
+1550,MSIT-PE@CMU,Admit,2023,Fall,Master,美国,5.0,4.55
+1551,MSIT-PE@CMU,Admit,2023,Fall,Master,美国,100,91.67
+1552,MSIT@NWU,Admit,2023,Fall,Master,美国,4.0,3.3
+1553,MSMITE@CMU,Admit,2024,Fall,Master,美国,4.0,3.7
+1554,MSMITE@CMU,Admit,2024,Fall,Master,美国,4.0,3.7
+1555,MSMITE@CMU,Admit,2024,Fall,Master,美国,4.0,3.46
+1556,MSMITE@CMU,Admit,2024,Fall,Master,美国,100,90.5
+1557,MSMITE@CMU,Reject,2023,Fall,Master,美国,4.0,3.92
+1558,MSMITE@CMU,Admit,2023,Fall,Master,美国,4.0,3.94
+1559,MSMITE@CMU,Admit,2023,Fall,Master,美国,5.0,4.55
+1560,MSMITE@CMU,Admit,2023,Fall,Master,美国,4.0,3.3
+1561,MSMITE@CMU,Admit,2023,Fall,Master,美国,4.3,3.96
+1562,MSML@CMU,Reject,2024,Fall,Master,美国,4.0,3.87
+1563,MSML@CMU,Admit,2024,Fall,Master,美国,4.0,3.93
+1564,MSML@CMU,Waitlist,2024,Fall,Master,美国,4.0,3.69
+1565,MSML@CMU,Reject,2023,Fall,Master,美国,4.0,3.92
+1566,MSML@CMU,Reject,2023,Fall,Master,美国,4.3,4.09
+1567,MSML@CMU,Reject,2023,Fall,Master,美国,4.0,3.95
+1568,MSML@CMU,Admit,2023,Fall,Master,美国,4.0,3.96
+1569,MSML@CMU,Admit,2023,Fall,Master,美国,5.0,4.57
+1570,MSML@CMU,Reject,2023,Fall,Master,美国,4.0,3.95
+1571,MSML@CMU,Reject,2023,Fall,Master,美国,100,94.48
+1572,MSML@CMU,Reject,2023,Fall,Master,美国,100,91.63
+1573,MSML@CMU,Reject,2023,Fall,Master,美国,100,88.42
+1574,MSML@CMU,Reject,2023,Fall,Master,美国,4.0,3.92
+1575,MSML@CMU,Admit,2023,Fall,Master,美国,4.0,4.0
+1576,MSML@CMU,Reject,2023,Fall,Master,美国,4.0,3.97
+1577,MSML@CMU,Reject,2023,Fall,Master,美国,100,87.0
+1578,MSR@CMU,Reject,2024,Fall,Master,美国,100,92.0
+1579,MSR@CMU,Admit,2024,Fall,Master,美国,4.3,4.05
+1580,MSR@CMU,Admit,2024,Fall,Master,美国,4.0,3.77
+1581,MSR@CMU,Reject,2023,Fall,Master,美国,4.0,3.92
+1582,MSR@CMU,Reject,2023,Fall,Master,美国,4.0,3.75
+1583,MSR@CMU,Reject,2023,Fall,Master,美国,4.0,3.86
+1584,MSR@CMU,Admit,2023,Fall,Master,美国,4.0,4.0
+1585,MSSI@JHU,Admit,2023,Fall,Master,美国,100,91.67
+1586,MSSSD@Tufts,Admit,2023,Fall,Master,美国,4.0,3.69
+1587,MSWE@UCI,Reject,2023,Fall,Master,美国,100,86.5
+1588,MSWE@UCI,Admit,2023,Fall,Master,美国,4.0,3.73
+1589,MSWE@UCI,Admit,2023,Fall,Master,美国,4.0,3.9
+1590,MSWE@UCI,Reject,2023,Fall,Master,美国,4.0,3.85
+1591,MSWE@UCI,Reject,2023,Fall,Master,美国,100,88.0
+1592,MSWE@UCI,Reject,2023,Fall,Master,美国,4.3,3.41
+1593,MSWE@UCI,Admit,2023,Fall,Master,美国,4.0,3.87
+1594,MSWE@UCI,Admit,2023,Fall,Master,美国,4.0,3.92
+1595,NetSys@UCI,Admit,2024,Fall,Master,美国,100,89.1
+1596,NetSys@UCI,Reject,2023,Fall,Master,美国,4.0,3.37
+1597,NetSys@UCI,Admit,2023,Fall,Master,美国,4.0,3.83
+1598,NetSys@UCI,Admit,2023,Fall,Master,美国,其他,27.89
+1599,NetSys@UCI,Admit,2023,Fall,Master,美国,4.0,3.92
+1600,Pre-Doctoral MSCS@UChicago,Reject,2023,Fall,Master,美国,4.0,3.8
+1601,ScM CS@Brown,Admit,2024,Fall,Master,美国,4.0,3.75
+1602,ScM CS@Brown,Reject,2024,Fall,Master,美国,4.0,3.96
+1603,ScM CS@Brown,Admit,2024,Fall,Master,美国,100,93.5
+1604,ScM CS@Brown,Admit,2024,Fall,Master,美国,100,94.25
+1605,ScM CS@Brown,Admit,2024,Fall,Master,美国,4.3,4.05
+1606,ScM CS@Brown,Admit,2024,Fall,Master,美国,100,92.0
+1607,ScM CS@Brown,Admit,2024,Fall,Master,美国,4.0,3.94
+1608,ScM CS@Brown,Reject,2024,Fall,Master,美国,4.3,3.7
+1609,ScM CS@Brown,Admit,2024,Fall,Master,美国,100,91.82
+1610,ScM CS@Brown,Reject,2024,Fall,Master,美国,100,91.08
+1611,ScM CS@Brown,Admit,2024,Fall,Master,美国,4.0,3.97
+1612,ScM CS@Brown,Admit,2024,Fall,Master,美国,4.0,3.89
+1613,ScM CS@Brown,Admit,2024,Fall,Master,美国,4.0,3.95
+1614,ScM CS@Brown,Reject,2024,Fall,Master,美国,100,90.6
+1615,ScM CS@Brown,Admit,2024,Fall,Master,美国,100,90.5
+1616,ScM CS@Brown,Admit,2024,Fall,Master,美国,100,91.11
+1617,ScM CS@Brown,Admit,2024,Fall,Master,美国,4.0,3.82
+1618,ScM CS@Brown,Reject,2024,Fall,Master,美国,4.3,3.7
+1619,ScM CS@Brown,Reject,2023,Fall,Master,美国,5.0,4.55
+1620,ScM CS@Brown,Admit,2023,Fall,Master,美国,100,94.48
+1621,ScM CS@Brown,Admit,2023,Fall,Master,美国,4.3,3.94
+1622,ScM CS@Brown,Admit,2023,Fall,Master,美国,100,90.3
+1623,ScM CS@Brown,Admit,2023,Fall,Master,美国,4.3,4.1
+1624,ScM CS@Brown,Reject,2023,Fall,Master,美国,100,87.5
+1625,ScM CS@Brown,Reject,2023,Fall,Master,美国,100,86.5
+1626,ScM CS@Brown,Admit,2023,Fall,Master,美国,4.0,3.75
+1627,ScM CS@Brown,Reject,2023,Fall,Master,美国,100,91.61
+1628,ScM CS@Brown,Admit,2023,Fall,Master,美国,4.0,3.76
+1629,ScM CS@Brown,Admit,2023,Fall,Master,美国,4.0,3.92
+1630,ScM CS@Brown,Reject,2023,Fall,Master,美国,100,86.74
+1631,ScM CS@Brown,Admit,2023,Fall,Master,美国,4.0,3.9
+1632,ScM CS@Brown,Admit,2022,Fall,Master,美国,100,88.42
+1634,SESV@CMU,Admit,2024,Fall,Master,美国,100,93.5
+1635,SESV@CMU,Reject,2024,Fall,Master,美国,100,91.82
+1636,SESV@CMU,Reject,2024,Fall,Master,美国,5.0,4.33
+1637,SESV@CMU,Reject,2024,Fall,Master,美国,100,90.6
+1638,SESV@CMU,Reject,2024,Fall,Master,美国,4.0,3.21
+1639,SESV@CMU,Admit,2024,Fall,Master,美国,4.0,3.94
+1640,SESV@CMU,Reject,2023,Fall,Master,美国,5.0,4.43
+1641,SESV@CMU,Reject,2023,Fall,Master,美国,100,92.3
+1642,SESV@CMU,Reject,2023,Fall,Master,美国,100,90.9
+1643,SESV@CMU,Reject,2023,Fall,Master,美国,4.0,3.48
+1644,SESV@CMU,Reject,2023,Fall,Master,美国,4.0,3.75
+1645,SESV@CMU,Reject,2023,Fall,Master,美国,5.0,4.41
+1646,SESV@CMU,Reject,2023,Fall,Master,美国,4.0,3.74
+1647,SESV@CMU,Reject,2023,Fall,Master,美国,100,86.5
+1648,SESV@CMU,Admit,2023,Fall,Master,美国,4.0,3.94
+1649,SESV@CMU,Reject,2022,Fall,Master,美国,100,90.11
+1650,SESV@CMU,Reject,2022,Fall,Master,美国,100,88.42
+1651,SYDE@Waterloo,Admit,2023,Fall,Master,加拿大,4.0,3.37
+1652,SYDE@Waterloo,Admit,2023,Fall,Master,加拿大,100,87.6
+1653,SYDE@Waterloo,Admit,2023,Fall,Master,加拿大,4.0,3.3
+1654,Visual Computing@SFU,Admit,2024,Fall,Master,加拿大,4.0,3.6
+1655,Visual Computing@SFU,Admit,2024,Fall,Master,加拿大,4.0,3.21
